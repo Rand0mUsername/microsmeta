@@ -1,0 +1,5148 @@
+39 49
+24 14
+1
+tek usao
+eee 0
+(39 49) (39 41) 1
+move from 39 49 to 39 41 dist 8
+9 39 50
+9 38 49
+7 39 48
+9 40 49
+pos = (39, 49)  mode = 1  dir = 2
+target = (39, 41)  assigned = 1
+sending 1 moves out of 1units
+39 48!
+1
+tek usao
+eee 1
+(39 48) (39 41) 1
+move from 39 48 to 39 41 dist 7
+8 39 49
+8 38 48
+6 39 47
+8 40 48
+pos = (39, 48)  mode = 1  dir = 2
+target = (39, 41)  assigned = 1
+sending 1 moves out of 1units
+39 47!
+1
+tek usao
+eee 1
+(39 47) (39 41) 1
+move from 39 47 to 39 41 dist 6
+7 39 48
+7 38 47
+5 39 46
+7 40 47
+pos = (39, 47)  mode = 1  dir = 2
+target = (39, 41)  assigned = 1
+sending 1 moves out of 1units
+39 46!
+1
+tek usao
+eee 1
+(39 46) (39 41) 1
+move from 39 46 to 39 41 dist 5
+6 39 47
+6 38 46
+4 39 45
+6 40 46
+pos = (39, 46)  mode = 1  dir = 2
+target = (39, 41)  assigned = 1
+sending 1 moves out of 1units
+39 45!
+1
+tek usao
+eee 1
+(39 45) (39 41) 1
+move from 39 45 to 39 41 dist 4
+5 39 46
+3 39 44
+5 40 45
+pos = (39, 45)  mode = 1  dir = 2
+target = (39, 41)  assigned = 1
+sending 1 moves out of 1units
+39 44!
+1
+tek usao
+eee 1
+(39 44) (39 41) 1
+move from 39 44 to 39 41 dist 3
+4 39 45
+4 38 44
+2 39 43
+4 40 44
+pos = (39, 44)  mode = 1  dir = 2
+target = (39, 41)  assigned = 1
+sending 1 moves out of 1units
+39 43!
+1
+tek usao
+eee 1
+(39 43) (39 41) 1
+move from 39 43 to 39 41 dist 2
+3 39 44
+3 38 43
+1 39 42
+3 40 43
+pos = (39, 43)  mode = 1  dir = 2
+target = (39, 41)  assigned = 1
+sending 1 moves out of 1units
+39 42!
+1
+tek usao
+eee 1
+(39 42) (39 41) 1
+move from 39 42 to 39 41 dist 1
+2 39 43
+2 38 42
+0 39 41
+2 40 42
+pos = (39, 42)  mode = 1  dir = 2
+target = (39, 41)  assigned = 1
+sending 1 moves out of 1units
+39 41!
+new unit @ 39 41
+1
+tek usao
+eee 0
+(39 41) (38 41) 2
+move from 39 41 to 38 41 dist 1
+2 39 42
+0 38 41
+2 39 40
+2 40 41
+pos = (39, 41)  mode = 1  dir = 1
+target = (38, 41)  assigned = 1
+1
+tek usao
+eee 0
+(39 41) (38 41) 2
+move from 39 41 to 38 41 dist 1
+2 39 42
+0 38 41
+2 39 40
+2 40 41
+pos = (39, 41)  mode = 1  dir = 1
+target = (38, 41)  assigned = 1
+sending 2 moves out of 2units
+38 41!
+new unit @ 38 41
+38 41!
+1
+tek usao
+eee 0
+(38 41) (37 41) 3
+move from 38 41 to 37 41 dist 1
+2 38 42
+0 37 41
+2 38 40
+2 39 41
+pos = (38, 41)  mode = 1  dir = 1
+target = (37, 41)  assigned = 1
+1
+tek usao
+eee 0
+(38 41) (37 41) 3
+move from 38 41 to 37 41 dist 1
+2 38 42
+0 37 41
+2 38 40
+2 39 41
+pos = (38, 41)  mode = 1  dir = 1
+target = (37, 41)  assigned = 1
+1
+tek usao
+eee 0
+(38 41) (37 41) 3
+move from 38 41 to 37 41 dist 1
+2 38 42
+0 37 41
+2 38 40
+2 39 41
+pos = (38, 41)  mode = 1  dir = 1
+target = (37, 41)  assigned = 1
+sending 3 moves out of 3units
+37 41!
+new unit @ 37 41
+37 41!
+37 41!
+1
+tek usao
+eee 0
+(37 41) (37 40) 4
+move from 37 41 to 37 40 dist 1
+2 37 42
+2 36 41
+0 37 40
+2 38 41
+pos = (37, 41)  mode = 1  dir = 2
+target = (37, 40)  assigned = 1
+1
+tek usao
+eee 0
+(37 41) (37 40) 4
+move from 37 41 to 37 40 dist 1
+2 37 42
+2 36 41
+0 37 40
+2 38 41
+pos = (37, 41)  mode = 1  dir = 2
+target = (37, 40)  assigned = 1
+1
+tek usao
+eee 0
+(37 41) (37 40) 4
+move from 37 41 to 37 40 dist 1
+2 37 42
+2 36 41
+0 37 40
+2 38 41
+pos = (37, 41)  mode = 1  dir = 2
+target = (37, 40)  assigned = 1
+1
+tek usao
+eee 0
+(37 41) (37 40) 4
+move from 37 41 to 37 40 dist 1
+2 37 42
+2 36 41
+0 37 40
+2 38 41
+pos = (37, 41)  mode = 1  dir = 2
+target = (37, 40)  assigned = 1
+sending 4 moves out of 4units
+37 40!
+new unit @ 37 40
+37 40!
+37 40!
+37 40!
+1
+tek usao
+eee 0
+(37 40) (37 39) 5
+move from 37 40 to 37 39 dist 1
+2 37 41
+2 36 40
+0 37 39
+2 38 40
+pos = (37, 40)  mode = 1  dir = 2
+target = (37, 39)  assigned = 1
+1
+tek usao
+eee 0
+(37 40) (37 39) 5
+move from 37 40 to 37 39 dist 1
+2 37 41
+2 36 40
+0 37 39
+2 38 40
+pos = (37, 40)  mode = 1  dir = 2
+target = (37, 39)  assigned = 1
+1
+tek usao
+eee 0
+(37 40) (37 39) 5
+move from 37 40 to 37 39 dist 1
+2 37 41
+2 36 40
+0 37 39
+2 38 40
+pos = (37, 40)  mode = 1  dir = 2
+target = (37, 39)  assigned = 1
+1
+tek usao
+eee 0
+(37 40) (37 39) 5
+move from 37 40 to 37 39 dist 1
+2 37 41
+2 36 40
+0 37 39
+2 38 40
+pos = (37, 40)  mode = 1  dir = 2
+target = (37, 39)  assigned = 1
+1
+tek usao
+eee 0
+(37 40) (37 39) 5
+move from 37 40 to 37 39 dist 1
+2 37 41
+2 36 40
+0 37 39
+2 38 40
+pos = (37, 40)  mode = 1  dir = 2
+target = (37, 39)  assigned = 1
+sending 5 moves out of 5units
+37 39!
+new unit @ 37 39
+new unit @ 37 39
+37 39!
+37 39!
+37 39!
+37 39!
+1
+tek usao
+eee 0
+(37 39) (36 39) 7
+0 1
+(37 39) (36 39) 1
+prosao if
+1 1
+(37 39) (37 39) 1
+prosao if
+1 1
+(37 39) (37 39) 1
+prosao if
+1 1
+(37 39) (37 39) 1
+prosao if
+1 1
+(37 39) (37 39) 1
+prosao if
+1 1
+(37 39) (0 0) 1
+prosao if
+1 1
+(37 39) (0 0) 1
+prosao if
+move from 37 39 to 36 39 dist 1
+2 37 40
+0 36 39
+2 37 38
+2 38 39
+pos = (37, 39)  mode = 1  dir = 1
+target = (36, 39)  assigned = 1
+1
+tek usao
+eee 0
+(37 39) (36 39) 7
+1 1
+(36 39) (36 39) 1
+prosao if
+0 1
+(37 39) (36 39) 1
+prosao if
+1 1
+(37 39) (37 39) 1
+prosao if
+1 1
+(37 39) (37 39) 1
+prosao if
+1 1
+(37 39) (37 39) 1
+prosao if
+1 1
+(37 39) (0 0) 1
+prosao if
+1 1
+(37 39) (0 0) 1
+prosao if
+move from 37 39 to 36 39 dist 1
+2 37 40
+0 36 39
+2 37 38
+2 38 39
+pos = (37, 39)  mode = 1  dir = 1
+target = (36, 39)  assigned = 1
+1
+tek usao
+eee 0
+(37 39) (36 39) 7
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+0 1
+(37 39) (36 39) 1
+prosao if
+1 1
+(37 39) (37 39) 1
+prosao if
+1 1
+(37 39) (37 39) 1
+prosao if
+1 1
+(37 39) (0 0) 1
+prosao if
+1 1
+(37 39) (0 0) 1
+prosao if
+move from 37 39 to 36 39 dist 1
+2 37 40
+0 36 39
+2 37 38
+2 38 39
+pos = (37, 39)  mode = 1  dir = 1
+target = (36, 39)  assigned = 1
+1
+tek usao
+eee 0
+(37 39) (36 39) 7
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+0 1
+(37 39) (36 39) 1
+prosao if
+1 1
+(37 39) (37 39) 1
+prosao if
+1 1
+(37 39) (0 0) 1
+prosao if
+1 1
+(37 39) (0 0) 1
+prosao if
+move from 37 39 to 36 39 dist 1
+2 37 40
+0 36 39
+2 37 38
+2 38 39
+pos = (37, 39)  mode = 1  dir = 1
+target = (36, 39)  assigned = 1
+1
+tek usao
+eee 0
+(37 39) (36 39) 7
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+0 1
+(37 39) (36 39) 1
+prosao if
+1 1
+(37 39) (0 0) 1
+prosao if
+1 1
+(37 39) (0 0) 1
+prosao if
+move from 37 39 to 36 39 dist 1
+2 37 40
+0 36 39
+2 37 38
+2 38 39
+pos = (37, 39)  mode = 1  dir = 1
+target = (36, 39)  assigned = 1
+1
+tek usao
+eee 0
+(37 39) (36 39) 7
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+0 1
+(37 39) (36 39) 1
+prosao if
+1 1
+(37 39) (0 0) 1
+prosao if
+move from 37 39 to 36 39 dist 1
+2 37 40
+0 36 39
+2 37 38
+2 38 39
+pos = (37, 39)  mode = 1  dir = 1
+target = (36, 39)  assigned = 1
+1
+tek usao
+eee 0
+(37 39) (36 39) 7
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+1 1
+(36 39) (36 39) 1
+prosao if
+0 1
+(37 39) (36 39) 1
+prosao if
+move from 37 39 to 36 39 dist 1
+2 37 40
+0 36 39
+2 37 38
+2 38 39
+pos = (37, 39)  mode = 1  dir = 1
+target = (36, 39)  assigned = 1
+sending 7 moves out of 7units
+36 39!
+new unit @ 36 39
+new unit @ 36 39
+36 39!
+36 39!
+36 39!
+36 39!
+36 39!
+36 39!
+1
+tek usao
+eee 0
+move from 36 39 to 36 38 dist 1
+2 36 40
+0 36 38
+2 37 39
+pos = (36, 39)  mode = 1  dir = 2
+target = (36, 38)  assigned = 1
+1
+tek usao
+eee 0
+move from 36 39 to 36 37 dist 2
+3 36 40
+1 36 38
+3 37 39
+pos = (36, 39)  mode = 1  dir = 2
+target = (36, 37)  assigned = 1
+1
+tek usao
+eee 0
+move from 36 39 to 37 38 dist 2
+3 36 40
+1 36 38
+1 37 39
+pos = (36, 39)  mode = 1  dir = 2
+target = (37, 38)  assigned = 1
+1
+tek usao
+eee 0
+move from 36 39 to 38 39 dist 2
+3 36 40
+3 36 38
+1 37 39
+pos = (36, 39)  mode = 1  dir = 3
+target = (38, 39)  assigned = 1
+1
+tek usao
+eee 0
+move from 36 39 to 36 36 dist 3
+4 36 40
+2 36 38
+4 37 39
+pos = (36, 39)  mode = 1  dir = 2
+target = (36, 36)  assigned = 1
+1
+tek usao
+eee 0
+move from 36 39 to 37 37 dist 3
+4 36 40
+2 36 38
+2 37 39
+pos = (36, 39)  mode = 1  dir = 2
+target = (37, 37)  assigned = 1
+1
+tek usao
+eee 0
+move from 36 39 to 38 38 dist 3
+4 36 40
+2 36 38
+2 37 39
+pos = (36, 39)  mode = 1  dir = 3
+target = (38, 38)  assigned = 1
+1
+tek usao
+eee 0
+move from 36 39 to 38 40 dist 3
+2 36 40
+4 36 38
+2 37 39
+pos = (36, 39)  mode = 1  dir = 0
+target = (38, 40)  assigned = 1
+4
+move from 36 39 to 24 14 dist 37
+38 36 40
+36 36 38
+38 37 39
+pos = (36, 39)  mode = 4  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 9 moves out of 9units
+1
+tek usao
+eee 1
+move from 37 39 to 38 39 dist 1
+2 37 40
+2 36 39
+2 37 38
+0 38 39
+pos = (37, 39)  mode = 1  dir = 3
+target = (38, 39)  assigned = 1
+1
+tek usao
+eee 1
+move from 37 39 to 38 38 dist 2
+3 37 40
+3 36 39
+1 37 38
+1 38 39
+pos = (37, 39)  mode = 1  dir = 3
+target = (38, 38)  assigned = 1
+1
+tek usao
+eee 1
+move from 36 40 to 38 40 dist 2
+3 36 41
+3 35 40
+3 36 39
+1 37 40
+pos = (36, 40)  mode = 1  dir = 3
+target = (38, 40)  assigned = 1
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 36 38 to 36 37 dist 1
+2 36 39
+0 36 37
+2 37 38
+pos = (36, 38)  mode = 1  dir = 2
+target = (36, 37)  assigned = 1
+1
+tek usao
+eee 1
+move from 36 38 to 37 38 dist 1
+2 36 39
+2 36 37
+0 37 38
+pos = (36, 38)  mode = 1  dir = 3
+target = (37, 38)  assigned = 1
+1
+tek usao
+eee 1
+move from 36 38 to 36 36 dist 2
+3 36 39
+1 36 37
+3 37 38
+pos = (36, 38)  mode = 1  dir = 2
+target = (36, 36)  assigned = 1
+1
+tek usao
+eee 1
+move from 36 38 to 37 37 dist 2
+3 36 39
+1 36 37
+1 37 38
+pos = (36, 38)  mode = 1  dir = 2
+target = (37, 37)  assigned = 1
+4
+move from 36 38 to 24 14 dist 36
+37 36 39
+35 36 37
+37 37 38
+pos = (36, 38)  mode = 4  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 8 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 39 to 38 38 dist 1
+2 38 40
+2 37 39
+0 38 38
+2 39 39
+pos = (38, 39)  mode = 1  dir = 2
+target = (38, 38)  assigned = 1
+1
+tek usao
+eee 1
+move from 37 40 to 38 40 dist 1
+2 37 41
+2 36 40
+2 37 39
+0 38 40
+pos = (37, 40)  mode = 1  dir = 3
+target = (38, 40)  assigned = 1
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 37 to 36 36 dist 1
+2 36 38
+0 36 36
+2 37 37
+pos = (36, 37)  mode = 1  dir = 2
+target = (36, 36)  assigned = 1
+1
+tek usao
+eee 1
+move from 36 37 to 37 37 dist 1
+2 36 38
+2 36 36
+0 37 37
+pos = (36, 37)  mode = 1  dir = 3
+target = (37, 37)  assigned = 1
+4
+move from 36 37 to 24 14 dist 35
+36 36 38
+34 36 36
+36 37 37
+pos = (36, 37)  mode = 4  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 5 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+4
+move from 36 36 to 24 14 dist 34
+35 36 37
+35 35 36
+33 36 35
+35 37 36
+pos = (36, 36)  mode = 4  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+4
+move from 36 35 to 24 14 dist 33
+34 36 36
+32 36 34
+34 37 35
+pos = (36, 35)  mode = 4  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+4
+move from 36 34 to 24 14 dist 32
+33 36 35
+31 35 34
+31 36 33
+33 37 34
+pos = (36, 34)  mode = 4  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+4
+move from 36 33 to 24 14 dist 31
+32 36 34
+30 35 33
+32 36 32
+32 37 33
+pos = (36, 33)  mode = 4  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+4
+move from 35 33 to 24 14 dist 30
+31 35 34
+29 34 33
+31 36 33
+pos = (35, 33)  mode = 4  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+4
+move from 34 33 to 24 14 dist 29
+30 34 34
+28 33 33
+28 34 32
+30 35 33
+pos = (34, 33)  mode = 4  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+4
+move from 34 32 to 24 14 dist 28
+29 34 33
+27 33 32
+27 34 31
+pos = (34, 32)  mode = 4  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+4
+move from 34 31 to 24 14 dist 27
+28 34 32
+26 33 31
+pos = (34, 31)  mode = 4  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+4
+move from 33 31 to 24 14 dist 26
+27 33 32
+25 32 31
+25 33 30
+27 34 31
+pos = (33, 31)  mode = 4  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+3
+move from 33 30 to 39 49 dist 25
+24 33 31
+26 32 30
+pos = (33, 30)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+3
+move from 33 31 to 39 49 dist 24
+23 33 32
+25 32 31
+25 33 30
+23 34 31
+pos = (33, 31)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+3
+move from 34 31 to 39 49 dist 23
+22 34 32
+24 33 31
+pos = (34, 31)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+3
+move from 34 32 to 39 49 dist 22
+21 34 33
+23 33 32
+23 34 31
+pos = (34, 32)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+3
+move from 34 33 to 39 49 dist 21
+20 34 34
+22 33 33
+22 34 32
+20 35 33
+pos = (34, 33)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+3
+move from 35 33 to 39 49 dist 20
+19 35 34
+21 34 33
+19 36 33
+pos = (35, 33)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+3
+move from 36 33 to 39 49 dist 19
+18 36 34
+20 35 33
+20 36 32
+18 37 33
+pos = (36, 33)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+1
+tek usao
+eee 1
+move from 36 36to same pos
+3
+move from 37 33 to 39 49 dist 18
+17 37 34
+19 36 33
+19 37 32
+17 38 33
+pos = (37, 33)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+1
+tek usao
+eee 1
+move from 36 37to same pos
+3
+move from 36 36 to 39 49 dist 16
+15 36 37
+17 35 36
+17 36 35
+15 37 36
+pos = (36, 36)  mode = 3  dir = 3
+target = (36, 36)  assigned = 0
+3
+move from 38 33 to 39 49 dist 17
+16 38 34
+18 37 33
+18 38 32
+16 39 33
+pos = (38, 33)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+sending 2 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+1
+tek usao
+eee 1
+move from 36 38to same pos
+1
+tek usao
+eee 1
+move from 37 37to same pos
+3
+move from 36 37 to 39 49 dist 15
+14 36 38
+16 36 36
+14 37 37
+pos = (36, 37)  mode = 3  dir = 3
+target = (36, 37)  assigned = 0
+3
+move from 37 36 to 39 49 dist 15
+14 37 37
+16 36 36
+16 37 35
+14 38 36
+pos = (37, 36)  mode = 3  dir = 3
+target = (36, 36)  assigned = 0
+3
+move from 39 33 to 39 49 dist 16
+15 39 34
+17 38 33
+17 39 32
+17 40 33
+pos = (39, 33)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+sending 3 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+1
+tek usao
+eee 1
+move from 37 38to same pos
+3
+move from 36 38 to 39 49 dist 14
+13 36 39
+15 36 37
+13 37 38
+pos = (36, 38)  mode = 3  dir = 3
+target = (36, 38)  assigned = 0
+3
+move from 37 37 to 39 49 dist 14
+13 37 38
+15 36 37
+15 37 36
+13 38 37
+pos = (37, 37)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+3
+move from 37 37 to 39 49 dist 14
+13 37 38
+15 36 37
+15 37 36
+13 38 37
+pos = (37, 37)  mode = 3  dir = 0
+target = (36, 37)  assigned = 0
+3
+move from 38 36 to 39 49 dist 14
+13 38 37
+15 37 36
+15 38 35
+13 39 36
+pos = (38, 36)  mode = 3  dir = 0
+target = (36, 36)  assigned = 0
+4
+move from 39 34 to 24 14 dist 35
+36 39 35
+34 38 34
+34 39 33
+36 40 34
+pos = (39, 34)  mode = 4  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 5 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+1
+tek usao
+eee 1
+move from 38 38to same pos
+3
+move from 37 38 to 39 49 dist 13
+12 37 39
+14 36 38
+14 37 37
+12 38 38
+pos = (37, 38)  mode = 3  dir = 3
+target = (37, 38)  assigned = 0
+3
+move from 37 38 to 39 49 dist 13
+12 37 39
+14 36 38
+14 37 37
+12 38 38
+pos = (37, 38)  mode = 3  dir = 3
+target = (36, 38)  assigned = 0
+3
+move from 37 38 to 39 49 dist 13
+12 37 39
+14 36 38
+14 37 37
+12 38 38
+pos = (37, 38)  mode = 3  dir = 3
+target = (37, 37)  assigned = 0
+3
+move from 37 38 to 39 49 dist 13
+12 37 39
+14 36 38
+14 37 37
+12 38 38
+pos = (37, 38)  mode = 3  dir = 3
+target = (36, 37)  assigned = 0
+3
+move from 38 37 to 39 49 dist 13
+12 38 38
+14 37 37
+14 38 36
+12 39 37
+pos = (38, 37)  mode = 3  dir = 0
+target = (36, 36)  assigned = 0
+3
+move from 38 34 to 39 49 dist 16
+15 38 35
+17 37 34
+17 38 33
+15 39 34
+pos = (38, 34)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+sending 6 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+1
+tek usao
+eee 1
+move from 38 39to same pos
+3
+move from 38 38 to 39 49 dist 12
+11 38 39
+13 37 38
+13 38 37
+11 39 38
+pos = (38, 38)  mode = 3  dir = 3
+target = (38, 38)  assigned = 0
+3
+move from 38 38 to 39 49 dist 12
+11 38 39
+13 37 38
+13 38 37
+11 39 38
+pos = (38, 38)  mode = 3  dir = 3
+target = (37, 38)  assigned = 0
+3
+move from 38 38 to 39 49 dist 12
+11 38 39
+13 37 38
+13 38 37
+11 39 38
+pos = (38, 38)  mode = 3  dir = 3
+target = (36, 38)  assigned = 0
+3
+move from 38 38 to 39 49 dist 12
+11 38 39
+13 37 38
+13 38 37
+11 39 38
+pos = (38, 38)  mode = 3  dir = 3
+target = (37, 37)  assigned = 0
+3
+move from 38 38 to 39 49 dist 12
+11 38 39
+13 37 38
+13 38 37
+11 39 38
+pos = (38, 38)  mode = 3  dir = 3
+target = (36, 37)  assigned = 0
+3
+move from 38 38 to 39 49 dist 12
+11 38 39
+13 37 38
+13 38 37
+11 39 38
+pos = (38, 38)  mode = 3  dir = 3
+target = (36, 36)  assigned = 0
+4
+move from 38 35 to 24 14 dist 35
+36 38 36
+34 37 35
+34 38 34
+36 39 35
+pos = (38, 35)  mode = 4  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 7 moves out of 9units
+1
+tek usao
+eee 1
+move from 38 40to same pos
+3
+move from 38 39 to 39 49 dist 11
+10 38 40
+12 37 39
+12 38 38
+10 39 39
+pos = (38, 39)  mode = 3  dir = 3
+target = (38, 39)  assigned = 0
+3
+move from 39 38 to 39 49 dist 11
+10 39 39
+12 38 38
+12 39 37
+12 40 38
+pos = (39, 38)  mode = 3  dir = 0
+target = (38, 38)  assigned = 0
+3
+move from 39 38 to 39 49 dist 11
+10 39 39
+12 38 38
+12 39 37
+12 40 38
+pos = (39, 38)  mode = 3  dir = 0
+target = (37, 38)  assigned = 0
+3
+move from 39 38 to 39 49 dist 11
+10 39 39
+12 38 38
+12 39 37
+12 40 38
+pos = (39, 38)  mode = 3  dir = 0
+target = (36, 38)  assigned = 0
+3
+move from 39 38 to 39 49 dist 11
+10 39 39
+12 38 38
+12 39 37
+12 40 38
+pos = (39, 38)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+3
+move from 39 38 to 39 49 dist 11
+10 39 39
+12 38 38
+12 39 37
+12 40 38
+pos = (39, 38)  mode = 3  dir = 0
+target = (36, 37)  assigned = 0
+3
+move from 39 38 to 39 49 dist 11
+10 39 39
+12 38 38
+12 39 37
+12 40 38
+pos = (39, 38)  mode = 3  dir = 0
+target = (36, 36)  assigned = 0
+3
+move from 38 34 to 39 49 dist 16
+15 38 35
+17 37 34
+17 38 33
+15 39 34
+pos = (38, 34)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+sending 8 moves out of 9units
+3
+move from 38 40 to 39 49 dist 10
+9 38 41
+11 37 40
+11 38 39
+9 39 40
+pos = (38, 40)  mode = 3  dir = 3
+target = (38, 40)  assigned = 0
+3
+move from 39 39 to 39 49 dist 10
+9 39 40
+11 38 39
+11 39 38
+11 40 39
+pos = (39, 39)  mode = 3  dir = 0
+target = (38, 39)  assigned = 0
+3
+move from 39 39 to 39 49 dist 10
+9 39 40
+11 38 39
+11 39 38
+11 40 39
+pos = (39, 39)  mode = 3  dir = 0
+target = (38, 38)  assigned = 0
+3
+move from 39 39 to 39 49 dist 10
+9 39 40
+11 38 39
+11 39 38
+11 40 39
+pos = (39, 39)  mode = 3  dir = 0
+target = (37, 38)  assigned = 0
+3
+move from 39 39 to 39 49 dist 10
+9 39 40
+11 38 39
+11 39 38
+11 40 39
+pos = (39, 39)  mode = 3  dir = 0
+target = (36, 38)  assigned = 0
+3
+move from 39 39 to 39 49 dist 10
+9 39 40
+11 38 39
+11 39 38
+11 40 39
+pos = (39, 39)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+3
+move from 39 39 to 39 49 dist 10
+9 39 40
+11 38 39
+11 39 38
+11 40 39
+pos = (39, 39)  mode = 3  dir = 0
+target = (36, 37)  assigned = 0
+3
+move from 39 39 to 39 49 dist 10
+9 39 40
+11 38 39
+11 39 38
+11 40 39
+pos = (39, 39)  mode = 3  dir = 0
+target = (36, 36)  assigned = 0
+4
+move from 39 34 to 24 14 dist 35
+36 39 35
+34 38 34
+34 39 33
+36 40 34
+pos = (39, 34)  mode = 4  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 9 moves out of 9units
+3
+move from 39 40 to 39 49 dist 9
+8 39 41
+10 38 40
+10 39 39
+10 40 40
+pos = (39, 40)  mode = 3  dir = 0
+target = (38, 40)  assigned = 0
+3
+move from 39 40 to 39 49 dist 9
+8 39 41
+10 38 40
+10 39 39
+10 40 40
+pos = (39, 40)  mode = 3  dir = 0
+target = (38, 39)  assigned = 0
+3
+move from 39 40 to 39 49 dist 9
+8 39 41
+10 38 40
+10 39 39
+10 40 40
+pos = (39, 40)  mode = 3  dir = 0
+target = (38, 38)  assigned = 0
+3
+move from 39 40 to 39 49 dist 9
+8 39 41
+10 38 40
+10 39 39
+10 40 40
+pos = (39, 40)  mode = 3  dir = 0
+target = (37, 38)  assigned = 0
+3
+move from 39 40 to 39 49 dist 9
+8 39 41
+10 38 40
+10 39 39
+10 40 40
+pos = (39, 40)  mode = 3  dir = 0
+target = (36, 38)  assigned = 0
+3
+move from 39 40 to 39 49 dist 9
+8 39 41
+10 38 40
+10 39 39
+10 40 40
+pos = (39, 40)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+3
+move from 39 40 to 39 49 dist 9
+8 39 41
+10 38 40
+10 39 39
+10 40 40
+pos = (39, 40)  mode = 3  dir = 0
+target = (36, 37)  assigned = 0
+3
+move from 39 40 to 39 49 dist 9
+8 39 41
+10 38 40
+10 39 39
+10 40 40
+pos = (39, 40)  mode = 3  dir = 0
+target = (36, 36)  assigned = 0
+3
+move from 38 34 to 39 49 dist 16
+15 38 35
+17 37 34
+17 38 33
+15 39 34
+pos = (38, 34)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+sending 9 moves out of 9units
+3
+3
+3
+3
+3
+3
+3
+3
+4
+move from 38 35 to 24 14 dist 35
+36 38 36
+34 37 35
+34 38 34
+36 39 35
+pos = (38, 35)  mode = 4  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 1 moves out of 9units
+3
+move from 39 41 to 39 49 dist 8
+7 39 42
+9 38 41
+9 39 40
+9 40 41
+pos = (39, 41)  mode = 3  dir = 0
+target = (38, 39)  assigned = 0
+3
+move from 39 41 to 39 49 dist 8
+7 39 42
+9 38 41
+9 39 40
+9 40 41
+pos = (39, 41)  mode = 3  dir = 0
+target = (38, 38)  assigned = 0
+3
+move from 39 41 to 39 49 dist 8
+7 39 42
+9 38 41
+9 39 40
+9 40 41
+pos = (39, 41)  mode = 3  dir = 0
+target = (37, 38)  assigned = 0
+3
+move from 39 41 to 39 49 dist 8
+7 39 42
+9 38 41
+9 39 40
+9 40 41
+pos = (39, 41)  mode = 3  dir = 0
+target = (36, 38)  assigned = 0
+3
+move from 39 41 to 39 49 dist 8
+7 39 42
+9 38 41
+9 39 40
+9 40 41
+pos = (39, 41)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+3
+move from 39 41 to 39 49 dist 8
+7 39 42
+9 38 41
+9 39 40
+9 40 41
+pos = (39, 41)  mode = 3  dir = 0
+target = (36, 37)  assigned = 0
+3
+move from 39 41 to 39 49 dist 8
+7 39 42
+9 38 41
+9 39 40
+9 40 41
+pos = (39, 41)  mode = 3  dir = 0
+target = (36, 36)  assigned = 0
+3
+move from 38 34 to 39 49 dist 16
+15 38 35
+17 37 34
+17 38 33
+15 39 34
+pos = (38, 34)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+sending 8 moves out of 8units
+39 42!
+39 42!
+39 42!
+39 42!
+39 42!
+39 42!
+38 35!
+3
+move from 39 42 to 39 49 dist 7
+6 39 43
+8 38 42
+8 39 41
+8 40 42
+pos = (39, 42)  mode = 3  dir = 0
+target = (38, 38)  assigned = 0
+3
+move from 39 42 to 39 49 dist 7
+6 39 43
+8 38 42
+8 39 41
+8 40 42
+pos = (39, 42)  mode = 3  dir = 0
+target = (37, 38)  assigned = 0
+3
+move from 39 42 to 39 49 dist 7
+6 39 43
+8 38 42
+8 39 41
+8 40 42
+pos = (39, 42)  mode = 3  dir = 0
+target = (36, 38)  assigned = 0
+3
+move from 39 42 to 39 49 dist 7
+6 39 43
+8 38 42
+8 39 41
+8 40 42
+pos = (39, 42)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+3
+move from 39 42 to 39 49 dist 7
+6 39 43
+8 38 42
+8 39 41
+8 40 42
+pos = (39, 42)  mode = 3  dir = 0
+target = (36, 37)  assigned = 0
+1
+tek usao
+eee 0
+move from 39 42 to 40 42 dist 1
+2 39 43
+2 38 42
+2 39 41
+0 40 42
+pos = (39, 42)  mode = 1  dir = 3
+target = (40, 42)  assigned = 1
+3
+move from 38 35 to 39 49 dist 15
+14 38 36
+16 37 35
+16 38 34
+14 39 35
+pos = (38, 35)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+sending 7 moves out of 7units
+39 43!
+39 43!
+39 43!
+39 43!
+39 43!
+40 42!
+new unit @ 40 42
+39 35!
+3
+move from 39 43 to 39 49 dist 6
+5 39 44
+7 38 43
+7 39 42
+7 40 43
+pos = (39, 43)  mode = 3  dir = 0
+target = (38, 38)  assigned = 0
+3
+move from 39 43 to 39 49 dist 6
+5 39 44
+7 38 43
+7 39 42
+7 40 43
+pos = (39, 43)  mode = 3  dir = 0
+target = (37, 38)  assigned = 0
+3
+move from 39 43 to 39 49 dist 6
+5 39 44
+7 38 43
+7 39 42
+7 40 43
+pos = (39, 43)  mode = 3  dir = 0
+target = (36, 38)  assigned = 0
+3
+move from 39 43 to 39 49 dist 6
+5 39 44
+7 38 43
+7 39 42
+7 40 43
+pos = (39, 43)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+1
+tek usao
+eee 0
+move from 39 43 to 39 40 dist 3
+4 39 44
+4 38 43
+2 39 42
+4 40 43
+pos = (39, 43)  mode = 1  dir = 2
+target = (39, 40)  assigned = 1
+1
+tek usao
+eee 0
+move from 40 42 to 40 41 dist 1
+2 40 43
+2 39 42
+0 40 41
+2 41 42
+pos = (40, 42)  mode = 1  dir = 2
+target = (40, 41)  assigned = 1
+1
+tek usao
+eee 0
+move from 40 42 to 38 40 dist 4
+5 40 43
+3 39 42
+3 40 41
+5 41 42
+pos = (40, 42)  mode = 1  dir = 2
+target = (38, 40)  assigned = 1
+1
+tek usao
+eee 0
+move from 39 35 to 39 36 dist 1
+0 39 36
+2 38 35
+2 39 34
+2 40 35
+pos = (39, 35)  mode = 1  dir = 0
+target = (39, 36)  assigned = 1
+sending 8 moves out of 8units
+39 44!
+39 44!
+39 44!
+39 44!
+39 42!
+40 41!
+new unit @ 40 41
+40 41!
+39 36!
+new unit @ 39 36
+3
+move from 39 44 to 39 49 dist 5
+4 39 45
+6 38 44
+6 39 43
+6 40 44
+pos = (39, 44)  mode = 3  dir = 0
+target = (38, 38)  assigned = 0
+3
+move from 39 44 to 39 49 dist 5
+4 39 45
+6 38 44
+6 39 43
+6 40 44
+pos = (39, 44)  mode = 3  dir = 0
+target = (37, 38)  assigned = 0
+3
+move from 39 44 to 39 49 dist 5
+4 39 45
+6 38 44
+6 39 43
+6 40 44
+pos = (39, 44)  mode = 3  dir = 0
+target = (36, 38)  assigned = 0
+3
+move from 39 44 to 39 49 dist 5
+4 39 45
+6 38 44
+6 39 43
+6 40 44
+pos = (39, 44)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+2
+move from 39 42 to 24 14 dist 43
+44 39 43
+42 38 42
+42 39 41
+44 40 42
+pos = (39, 42)  mode = 2  dir = 2
+target = (39, 40)  assigned = 0
+2
+move from 40 41 to 24 14 dist 43
+44 40 42
+42 39 41
+42 40 40
+pos = (40, 41)  mode = 2  dir = 2
+target = (40, 41)  assigned = 0
+2
+move from 40 41 to 24 14 dist 43
+44 40 42
+42 39 41
+42 40 40
+pos = (40, 41)  mode = 2  dir = 2
+target = (38, 40)  assigned = 0
+2
+move from 40 41 to 24 14 dist 43
+44 40 42
+42 39 41
+42 40 40
+pos = (40, 41)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 39 36 to 24 14 dist 37
+38 39 37
+36 38 36
+36 39 35
+38 40 36
+pos = (39, 36)  mode = 2  dir = 2
+target = (39, 36)  assigned = 0
+2
+move from 39 36 to 24 14 dist 37
+38 39 37
+36 38 36
+36 39 35
+38 40 36
+pos = (39, 36)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+3
+move from 39 45 to 39 49 dist 4
+3 39 46
+5 39 44
+5 40 45
+pos = (39, 45)  mode = 3  dir = 0
+target = (38, 38)  assigned = 0
+3
+move from 39 45 to 39 49 dist 4
+3 39 46
+5 39 44
+5 40 45
+pos = (39, 45)  mode = 3  dir = 0
+target = (37, 38)  assigned = 0
+3
+move from 39 45 to 39 49 dist 4
+3 39 46
+5 39 44
+5 40 45
+pos = (39, 45)  mode = 3  dir = 0
+target = (36, 38)  assigned = 0
+3
+move from 39 45 to 39 49 dist 4
+3 39 46
+5 39 44
+5 40 45
+pos = (39, 45)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+3
+move from 39 41 to 39 49 dist 8
+7 39 42
+9 38 41
+9 39 40
+9 40 41
+pos = (39, 41)  mode = 3  dir = 0
+target = (39, 40)  assigned = 0
+2
+move from 39 41 to 24 14 dist 42
+43 39 42
+41 38 41
+41 39 40
+43 40 41
+pos = (39, 41)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 40 40 to 24 14 dist 42
+43 40 41
+41 39 40
+41 40 39
+pos = (40, 40)  mode = 2  dir = 2
+target = (40, 41)  assigned = 0
+2
+move from 40 40 to 24 14 dist 42
+43 40 41
+41 39 40
+41 40 39
+pos = (40, 40)  mode = 2  dir = 2
+target = (38, 40)  assigned = 0
+2
+move from 39 35 to 24 14 dist 36
+37 39 36
+35 38 35
+35 39 34
+37 40 35
+pos = (39, 35)  mode = 2  dir = 2
+target = (39, 36)  assigned = 0
+2
+move from 38 36 to 24 14 dist 36
+37 38 37
+35 37 36
+35 38 35
+37 39 36
+pos = (38, 36)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+3
+move from 39 46 to 39 49 dist 3
+2 39 47
+4 38 46
+4 39 45
+4 40 46
+pos = (39, 46)  mode = 3  dir = 0
+target = (38, 38)  assigned = 0
+3
+move from 39 46 to 39 49 dist 3
+2 39 47
+4 38 46
+4 39 45
+4 40 46
+pos = (39, 46)  mode = 3  dir = 0
+target = (37, 38)  assigned = 0
+3
+move from 39 46 to 39 49 dist 3
+2 39 47
+4 38 46
+4 39 45
+4 40 46
+pos = (39, 46)  mode = 3  dir = 0
+target = (36, 38)  assigned = 0
+3
+move from 39 46 to 39 49 dist 3
+2 39 47
+4 38 46
+4 39 45
+4 40 46
+pos = (39, 46)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+3
+move from 39 42 to 39 49 dist 7
+6 39 43
+8 38 42
+8 39 41
+8 40 42
+pos = (39, 42)  mode = 3  dir = 0
+target = (39, 40)  assigned = 0
+2
+move from 39 40 to 24 14 dist 41
+42 39 41
+40 38 40
+40 39 39
+42 40 40
+pos = (39, 40)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 40 39 to 24 14 dist 41
+42 40 40
+40 39 39
+40 40 38
+42 41 39
+pos = (40, 39)  mode = 2  dir = 2
+target = (40, 41)  assigned = 0
+2
+move from 40 39 to 24 14 dist 41
+42 40 40
+40 39 39
+40 40 38
+42 41 39
+pos = (40, 39)  mode = 2  dir = 2
+target = (38, 40)  assigned = 0
+2
+move from 39 34 to 24 14 dist 35
+36 39 35
+34 38 34
+34 39 33
+36 40 34
+pos = (39, 34)  mode = 2  dir = 2
+target = (39, 36)  assigned = 0
+2
+move from 38 35 to 24 14 dist 35
+36 38 36
+34 37 35
+34 38 34
+36 39 35
+pos = (38, 35)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+3
+move from 39 47 to 39 49 dist 2
+1 39 48
+3 38 47
+3 39 46
+3 40 47
+pos = (39, 47)  mode = 3  dir = 0
+target = (38, 38)  assigned = 0
+3
+move from 39 47 to 39 49 dist 2
+1 39 48
+3 38 47
+3 39 46
+3 40 47
+pos = (39, 47)  mode = 3  dir = 0
+target = (37, 38)  assigned = 0
+3
+move from 39 47 to 39 49 dist 2
+1 39 48
+3 38 47
+3 39 46
+3 40 47
+pos = (39, 47)  mode = 3  dir = 0
+target = (36, 38)  assigned = 0
+3
+move from 39 47 to 39 49 dist 2
+1 39 48
+3 38 47
+3 39 46
+3 40 47
+pos = (39, 47)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+3
+move from 39 43 to 39 49 dist 6
+5 39 44
+7 38 43
+7 39 42
+7 40 43
+pos = (39, 43)  mode = 3  dir = 0
+target = (39, 40)  assigned = 0
+3
+move from 39 39 to 39 49 dist 10
+9 39 40
+11 38 39
+11 39 38
+11 40 39
+pos = (39, 39)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+3
+move from 40 38 to 39 49 dist 12
+11 40 39
+11 39 38
+13 40 37
+13 41 38
+pos = (40, 38)  mode = 3  dir = 0
+target = (40, 41)  assigned = 0
+2
+move from 40 38 to 24 14 dist 40
+41 40 39
+39 39 38
+39 40 37
+41 41 38
+pos = (40, 38)  mode = 2  dir = 2
+target = (38, 40)  assigned = 0
+2
+move from 39 33 to 24 14 dist 34
+35 39 34
+33 38 33
+35 39 32
+35 40 33
+pos = (39, 33)  mode = 2  dir = 1
+target = (39, 36)  assigned = 0
+2
+move from 37 35 to 24 14 dist 34
+35 37 36
+33 36 35
+33 37 34
+35 38 35
+pos = (37, 35)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+3
+move from 39 48 to 39 49 dist 1
+0 39 49
+2 38 48
+2 39 47
+2 40 48
+pos = (39, 48)  mode = 3  dir = 0
+target = (38, 38)  assigned = 0
+3
+move from 39 48 to 39 49 dist 1
+0 39 49
+2 38 48
+2 39 47
+2 40 48
+pos = (39, 48)  mode = 3  dir = 0
+target = (37, 38)  assigned = 0
+3
+move from 39 48 to 39 49 dist 1
+0 39 49
+2 38 48
+2 39 47
+2 40 48
+pos = (39, 48)  mode = 3  dir = 0
+target = (36, 38)  assigned = 0
+3
+move from 39 48 to 39 49 dist 1
+0 39 49
+2 38 48
+2 39 47
+2 40 48
+pos = (39, 48)  mode = 3  dir = 0
+target = (37, 37)  assigned = 0
+3
+move from 39 44 to 39 49 dist 5
+4 39 45
+6 38 44
+6 39 43
+6 40 44
+pos = (39, 44)  mode = 3  dir = 0
+target = (39, 40)  assigned = 0
+2
+move from 40 39 to 24 14 dist 41
+42 40 40
+40 39 39
+40 40 38
+42 41 39
+pos = (40, 39)  mode = 2  dir = 2
+target = (40, 41)  assigned = 0
+2
+move from 40 37 to 24 14 dist 39
+40 40 38
+38 39 37
+38 40 36
+40 41 37
+pos = (40, 37)  mode = 2  dir = 2
+target = (38, 40)  assigned = 0
+2
+move from 38 33 to 24 14 dist 33
+34 38 34
+32 37 33
+34 38 32
+34 39 33
+pos = (38, 33)  mode = 2  dir = 1
+target = (39, 36)  assigned = 0
+2
+move from 36 35 to 24 14 dist 33
+34 36 36
+32 36 34
+34 37 35
+pos = (36, 35)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 9 moves out of 9units
+1
+tek usao
+eee 0
+move from 39 45 to 39 40 dist 5
+6 39 46
+4 39 44
+6 40 45
+pos = (39, 45)  mode = 1  dir = 2
+target = (39, 40)  assigned = 1
+1
+tek usao
+eee 0
+move from 40 38to same pos
+1
+tek usao
+eee 0
+move from 40 36to same pos
+1
+tek usao
+eee 0
+move from 37 33to same pos
+1
+tek usao
+eee 0
+move from 36 34 to 35 34 dist 1
+2 36 35
+0 35 34
+2 36 33
+2 37 34
+pos = (36, 34)  mode = 1  dir = 1
+target = (35, 34)  assigned = 1
+sending 2 moves out of 5units
+39 44!
+40 38!
+new unit @ 40 38
+new unit @ 40 38
+40 36!
+new unit @ 40 36
+new unit @ 40 36
+37 33!
+new unit @ 37 33
+new unit @ 37 33
+35 34!
+new unit @ 35 34
+3
+move from 39 44 to 39 49 dist 5
+4 39 45
+6 38 44
+6 39 43
+6 40 44
+pos = (39, 44)  mode = 3  dir = 0
+target = (39, 40)  assigned = 0
+3
+move from 40 38 to 39 49 dist 12
+11 40 39
+11 39 38
+13 40 37
+13 41 38
+pos = (40, 38)  mode = 3  dir = 1
+target = (40, 38)  assigned = 0
+2
+move from 40 38 to 24 14 dist 40
+41 40 39
+39 39 38
+39 40 37
+41 41 38
+pos = (40, 38)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 40 38 to 24 14 dist 40
+41 40 39
+39 39 38
+39 40 37
+41 41 38
+pos = (40, 38)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 40 36 to 24 14 dist 38
+39 40 37
+37 39 36
+37 40 35
+39 41 36
+pos = (40, 36)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 40 36 to 24 14 dist 38
+39 40 37
+37 39 36
+37 40 35
+39 41 36
+pos = (40, 36)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 40 36 to 24 14 dist 38
+39 40 37
+37 39 36
+37 40 35
+39 41 36
+pos = (40, 36)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 37 33 to 24 14 dist 32
+33 37 34
+31 36 33
+33 37 32
+33 38 33
+pos = (37, 33)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 37 33 to 24 14 dist 32
+33 37 34
+31 36 33
+33 37 32
+33 38 33
+pos = (37, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 37 33 to 24 14 dist 32
+33 37 34
+31 36 33
+33 37 32
+33 38 33
+pos = (37, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 35 34 to 24 14 dist 31
+30 34 34
+30 35 33
+32 36 34
+pos = (35, 34)  mode = 2  dir = 1
+target = (35, 34)  assigned = 0
+2
+move from 35 34 to 24 14 dist 31
+30 34 34
+30 35 33
+32 36 34
+pos = (35, 34)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 12 moves out of 12units
+3
+move from 39 45 to 39 49 dist 4
+3 39 46
+5 39 44
+5 40 45
+pos = (39, 45)  mode = 3  dir = 0
+target = (39, 40)  assigned = 0
+3
+move from 39 38 to 39 49 dist 11
+10 39 39
+12 38 38
+12 39 37
+12 40 38
+pos = (39, 38)  mode = 3  dir = 0
+target = (40, 38)  assigned = 0
+2
+move from 39 38 to 24 14 dist 39
+40 39 39
+38 38 38
+38 39 37
+40 40 38
+pos = (39, 38)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 40 37 to 24 14 dist 39
+40 40 38
+38 39 37
+38 40 36
+40 41 37
+pos = (40, 37)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 39 36 to 24 14 dist 37
+38 39 37
+36 38 36
+36 39 35
+38 40 36
+pos = (39, 36)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 39 36 to 24 14 dist 37
+38 39 37
+36 38 36
+36 39 35
+38 40 36
+pos = (39, 36)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 40 35 to 24 14 dist 37
+38 40 36
+36 39 35
+36 40 34
+38 41 35
+pos = (40, 35)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 36 33 to 24 14 dist 31
+32 36 34
+30 35 33
+32 36 32
+32 37 33
+pos = (36, 33)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 36 33 to 24 14 dist 31
+32 36 34
+30 35 33
+32 36 32
+32 37 33
+pos = (36, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 36 33 to 24 14 dist 31
+32 36 34
+30 35 33
+32 36 32
+32 37 33
+pos = (36, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 34 34 to 24 14 dist 30
+29 33 34
+29 34 33
+31 35 34
+pos = (34, 34)  mode = 2  dir = 1
+target = (35, 34)  assigned = 0
+2
+move from 35 33 to 24 14 dist 30
+31 35 34
+29 34 33
+31 36 33
+pos = (35, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 12 moves out of 12units
+3
+move from 39 46 to 39 49 dist 3
+2 39 47
+4 38 46
+4 39 45
+4 40 46
+pos = (39, 46)  mode = 3  dir = 0
+target = (39, 40)  assigned = 0
+3
+move from 39 39 to 39 49 dist 10
+9 39 40
+11 38 39
+11 39 38
+11 40 39
+pos = (39, 39)  mode = 3  dir = 0
+target = (40, 38)  assigned = 0
+2
+move from 39 37 to 24 14 dist 38
+39 39 38
+37 38 37
+37 39 36
+39 40 37
+pos = (39, 37)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 40 36 to 24 14 dist 38
+39 40 37
+37 39 36
+37 40 35
+39 41 36
+pos = (40, 36)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 39 35 to 24 14 dist 36
+37 39 36
+35 38 35
+35 39 34
+37 40 35
+pos = (39, 35)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 38 36 to 24 14 dist 36
+37 38 37
+35 37 36
+35 38 35
+37 39 36
+pos = (38, 36)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 40 34 to 24 14 dist 36
+37 40 35
+35 39 34
+35 40 33
+37 41 34
+pos = (40, 34)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 35 33 to 24 14 dist 30
+31 35 34
+29 34 33
+31 36 33
+pos = (35, 33)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 35 33 to 24 14 dist 30
+31 35 34
+29 34 33
+31 36 33
+pos = (35, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 35 33 to 24 14 dist 30
+31 35 34
+29 34 33
+31 36 33
+pos = (35, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 33 34 to 24 14 dist 29
+30 33 35
+28 32 34
+28 33 33
+30 34 34
+pos = (33, 34)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 34 33 to 24 14 dist 29
+30 34 34
+28 33 33
+28 34 32
+30 35 33
+pos = (34, 33)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 12 moves out of 12units
+3
+move from 39 47 to 39 49 dist 2
+1 39 48
+3 38 47
+3 39 46
+3 40 47
+pos = (39, 47)  mode = 3  dir = 0
+target = (39, 40)  assigned = 0
+3
+move from 39 40 to 39 49 dist 9
+8 39 41
+10 38 40
+10 39 39
+10 40 40
+pos = (39, 40)  mode = 3  dir = 0
+target = (40, 38)  assigned = 0
+2
+move from 38 37 to 24 14 dist 37
+38 38 38
+36 37 37
+36 38 36
+38 39 37
+pos = (38, 37)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 39 36 to 24 14 dist 37
+38 39 37
+36 38 36
+36 39 35
+38 40 36
+pos = (39, 36)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 39 34 to 24 14 dist 35
+36 39 35
+34 38 34
+34 39 33
+36 40 34
+pos = (39, 34)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 38 35 to 24 14 dist 35
+36 38 36
+34 37 35
+34 38 34
+36 39 35
+pos = (38, 35)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 40 33 to 24 14 dist 35
+36 40 34
+34 39 33
+36 40 32
+36 41 33
+pos = (40, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 34 33 to 24 14 dist 29
+30 34 34
+28 33 33
+28 34 32
+30 35 33
+pos = (34, 33)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 34 33 to 24 14 dist 29
+30 34 34
+28 33 33
+28 34 32
+30 35 33
+pos = (34, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 34 33 to 24 14 dist 29
+30 34 34
+28 33 33
+28 34 32
+30 35 33
+pos = (34, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 33 33 to 24 14 dist 28
+29 33 34
+27 32 33
+27 33 32
+29 34 33
+pos = (33, 33)  mode = 2  dir = 1
+target = (35, 34)  assigned = 0
+2
+move from 34 32 to 24 14 dist 28
+29 34 33
+27 33 32
+27 34 31
+pos = (34, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 12 moves out of 12units
+3
+move from 39 48 to 39 49 dist 1
+0 39 49
+2 38 48
+2 39 47
+2 40 48
+pos = (39, 48)  mode = 3  dir = 0
+target = (39, 40)  assigned = 0
+3
+move from 39 41 to 39 49 dist 8
+7 39 42
+9 38 41
+9 39 40
+9 40 41
+pos = (39, 41)  mode = 3  dir = 0
+target = (40, 38)  assigned = 0
+2
+move from 38 36 to 24 14 dist 36
+37 38 37
+35 37 36
+35 38 35
+37 39 36
+pos = (38, 36)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 39 35 to 24 14 dist 36
+37 39 36
+35 38 35
+35 39 34
+37 40 35
+pos = (39, 35)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 39 33 to 24 14 dist 34
+35 39 34
+33 38 33
+35 39 32
+35 40 33
+pos = (39, 33)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 37 35 to 24 14 dist 34
+35 37 36
+33 36 35
+33 37 34
+35 38 35
+pos = (37, 35)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 39 33 to 24 14 dist 34
+35 39 34
+33 38 33
+35 39 32
+35 40 33
+pos = (39, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 34 32 to 24 14 dist 28
+29 34 33
+27 33 32
+27 34 31
+pos = (34, 32)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 33 33 to 24 14 dist 28
+29 33 34
+27 32 33
+27 33 32
+29 34 33
+pos = (33, 33)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 33 33 to 24 14 dist 28
+29 33 34
+27 32 33
+27 33 32
+29 34 33
+pos = (33, 33)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 32 33 to 24 14 dist 27
+28 32 34
+26 31 33
+26 32 32
+28 33 33
+pos = (32, 33)  mode = 2  dir = 1
+target = (35, 34)  assigned = 0
+2
+move from 33 32 to 24 14 dist 27
+28 33 33
+26 32 32
+26 33 31
+28 34 32
+pos = (33, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 12 moves out of 12units
+3
+move from 39 42 to 39 49 dist 7
+6 39 43
+8 38 42
+8 39 41
+8 40 42
+pos = (39, 42)  mode = 3  dir = 0
+target = (40, 38)  assigned = 0
+2
+move from 38 35 to 24 14 dist 35
+36 38 36
+34 37 35
+34 38 34
+36 39 35
+pos = (38, 35)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 38 35 to 24 14 dist 35
+36 38 36
+34 37 35
+34 38 34
+36 39 35
+pos = (38, 35)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 38 33 to 24 14 dist 33
+34 38 34
+32 37 33
+34 38 32
+34 39 33
+pos = (38, 33)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 37 34 to 24 14 dist 33
+34 37 35
+32 36 34
+32 37 33
+34 38 34
+pos = (37, 34)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 38 33 to 24 14 dist 33
+34 38 34
+32 37 33
+34 38 32
+34 39 33
+pos = (38, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 33 32 to 24 14 dist 27
+28 33 33
+26 32 32
+26 33 31
+28 34 32
+pos = (33, 32)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 33 32 to 24 14 dist 27
+28 33 33
+26 32 32
+26 33 31
+28 34 32
+pos = (33, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 33 32 to 24 14 dist 27
+28 33 33
+26 32 32
+26 33 31
+28 34 32
+pos = (33, 32)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 31 33 to 24 14 dist 26
+27 31 34
+25 30 33
+25 31 32
+27 32 33
+pos = (31, 33)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 32 32 to 24 14 dist 26
+27 32 33
+25 31 32
+25 32 31
+27 33 32
+pos = (32, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 11 moves out of 11units
+3
+move from 39 43 to 39 49 dist 6
+5 39 44
+7 38 43
+7 39 42
+7 40 43
+pos = (39, 43)  mode = 3  dir = 0
+target = (40, 38)  assigned = 0
+2
+move from 37 35 to 24 14 dist 34
+35 37 36
+33 36 35
+33 37 34
+35 38 35
+pos = (37, 35)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 37 35 to 24 14 dist 34
+35 37 36
+33 36 35
+33 37 34
+35 38 35
+pos = (37, 35)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 37 33 to 24 14 dist 32
+33 37 34
+31 36 33
+33 37 32
+33 38 33
+pos = (37, 33)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 36 34 to 24 14 dist 32
+33 36 35
+31 35 34
+31 36 33
+33 37 34
+pos = (36, 34)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 37 33 to 24 14 dist 32
+33 37 34
+31 36 33
+33 37 32
+33 38 33
+pos = (37, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 32 32 to 24 14 dist 26
+27 32 33
+25 31 32
+25 32 31
+27 33 32
+pos = (32, 32)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 32 32 to 24 14 dist 26
+27 32 33
+25 31 32
+25 32 31
+27 33 32
+pos = (32, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 33 31 to 24 14 dist 26
+27 33 32
+25 32 31
+25 33 30
+27 34 31
+pos = (33, 31)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 31 32 to 24 14 dist 25
+26 31 33
+24 30 32
+24 31 31
+26 32 32
+pos = (31, 32)  mode = 2  dir = 1
+target = (35, 34)  assigned = 0
+2
+move from 31 32 to 24 14 dist 25
+26 31 33
+24 30 32
+24 31 31
+26 32 32
+pos = (31, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 11 moves out of 11units
+3
+move from 39 44 to 39 49 dist 5
+4 39 45
+6 38 44
+6 39 43
+6 40 44
+pos = (39, 44)  mode = 3  dir = 0
+target = (40, 38)  assigned = 0
+2
+move from 36 35 to 24 14 dist 33
+34 36 36
+32 36 34
+34 37 35
+pos = (36, 35)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 36 35 to 24 14 dist 33
+34 36 36
+32 36 34
+34 37 35
+pos = (36, 35)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 36 33 to 24 14 dist 31
+32 36 34
+30 35 33
+32 36 32
+32 37 33
+pos = (36, 33)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 36 33 to 24 14 dist 31
+32 36 34
+30 35 33
+32 36 32
+32 37 33
+pos = (36, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 36 33 to 24 14 dist 31
+32 36 34
+30 35 33
+32 36 32
+32 37 33
+pos = (36, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 31 32 to 24 14 dist 25
+26 31 33
+24 30 32
+24 31 31
+26 32 32
+pos = (31, 32)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 31 32 to 24 14 dist 25
+26 31 33
+24 30 32
+24 31 31
+26 32 32
+pos = (31, 32)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 33 30 to 24 14 dist 25
+26 33 31
+24 32 30
+pos = (33, 30)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 30 32 to 24 14 dist 24
+25 30 33
+23 29 32
+23 30 31
+25 31 32
+pos = (30, 32)  mode = 2  dir = 1
+target = (35, 34)  assigned = 0
+2
+move from 30 32 to 24 14 dist 24
+25 30 33
+23 29 32
+23 30 31
+25 31 32
+pos = (30, 32)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 11 moves out of 11units
+3
+move from 39 45 to 39 49 dist 4
+3 39 46
+5 39 44
+5 40 45
+pos = (39, 45)  mode = 3  dir = 0
+target = (40, 38)  assigned = 0
+2
+move from 36 34 to 24 14 dist 32
+33 36 35
+31 35 34
+31 36 33
+33 37 34
+pos = (36, 34)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 36 34 to 24 14 dist 32
+33 36 35
+31 35 34
+31 36 33
+33 37 34
+pos = (36, 34)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 35 33 to 24 14 dist 30
+31 35 34
+29 34 33
+31 36 33
+pos = (35, 33)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 35 33 to 24 14 dist 30
+31 35 34
+29 34 33
+31 36 33
+pos = (35, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 35 33 to 24 14 dist 30
+31 35 34
+29 34 33
+31 36 33
+pos = (35, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 30 32 to 24 14 dist 24
+25 30 33
+23 29 32
+23 30 31
+25 31 32
+pos = (30, 32)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 31 31 to 24 14 dist 24
+25 31 32
+23 30 31
+23 31 30
+25 32 31
+pos = (31, 31)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 32 30 to 24 14 dist 24
+25 32 31
+23 31 30
+23 32 29
+25 33 30
+pos = (32, 30)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 29 32 to 24 14 dist 23
+22 29 31
+24 30 32
+pos = (29, 32)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 30 31 to 24 14 dist 23
+24 30 32
+22 29 31
+22 30 30
+24 31 31
+pos = (30, 31)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 11 moves out of 11units
+3
+move from 39 46 to 39 49 dist 3
+2 39 47
+4 38 46
+4 39 45
+4 40 46
+pos = (39, 46)  mode = 3  dir = 0
+target = (40, 38)  assigned = 0
+2
+move from 36 33 to 24 14 dist 31
+32 36 34
+30 35 33
+32 36 32
+32 37 33
+pos = (36, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 35 34 to 24 14 dist 31
+30 34 34
+30 35 33
+32 36 34
+pos = (35, 34)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 34 33 to 24 14 dist 29
+30 34 34
+28 33 33
+28 34 32
+30 35 33
+pos = (34, 33)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 34 33 to 24 14 dist 29
+30 34 34
+28 33 33
+28 34 32
+30 35 33
+pos = (34, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 34 33 to 24 14 dist 29
+30 34 34
+28 33 33
+28 34 32
+30 35 33
+pos = (34, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 30 31 to 24 14 dist 23
+24 30 32
+22 29 31
+22 30 30
+24 31 31
+pos = (30, 31)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 30 31 to 24 14 dist 23
+24 30 32
+22 29 31
+22 30 30
+24 31 31
+pos = (30, 31)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 31 30 to 24 14 dist 23
+24 31 31
+22 30 30
+22 31 29
+24 32 30
+pos = (31, 30)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 29 31 to 24 14 dist 22
+23 29 32
+21 29 30
+23 30 31
+pos = (29, 31)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 29 31 to 24 14 dist 22
+23 29 32
+21 29 30
+23 30 31
+pos = (29, 31)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 11 moves out of 11units
+3
+move from 39 47 to 39 49 dist 2
+1 39 48
+3 38 47
+3 39 46
+3 40 47
+pos = (39, 47)  mode = 3  dir = 0
+target = (40, 38)  assigned = 0
+2
+move from 35 33 to 24 14 dist 30
+31 35 34
+29 34 33
+31 36 33
+pos = (35, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 34 34 to 24 14 dist 30
+29 33 34
+29 34 33
+31 35 34
+pos = (34, 34)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 33 33 to 24 14 dist 28
+29 33 34
+27 32 33
+27 33 32
+29 34 33
+pos = (33, 33)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 33 33 to 24 14 dist 28
+29 33 34
+27 32 33
+27 33 32
+29 34 33
+pos = (33, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 33 33 to 24 14 dist 28
+29 33 34
+27 32 33
+27 33 32
+29 34 33
+pos = (33, 33)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 29 31 to 24 14 dist 22
+23 29 32
+21 29 30
+23 30 31
+pos = (29, 31)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 29 31 to 24 14 dist 22
+23 29 32
+21 29 30
+23 30 31
+pos = (29, 31)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 31 29 to 24 14 dist 22
+23 31 30
+21 30 29
+21 31 28
+23 32 29
+pos = (31, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 29 30 to 24 14 dist 21
+22 29 31
+20 28 30
+20 29 29
+22 30 30
+pos = (29, 30)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 29 30 to 24 14 dist 21
+22 29 31
+20 28 30
+20 29 29
+22 30 30
+pos = (29, 30)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 11 moves out of 11units
+3
+move from 39 48 to 39 49 dist 1
+0 39 49
+2 38 48
+2 39 47
+2 40 48
+pos = (39, 48)  mode = 3  dir = 0
+target = (40, 38)  assigned = 0
+2
+move from 34 33 to 24 14 dist 29
+30 34 34
+28 33 33
+28 34 32
+30 35 33
+pos = (34, 33)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 34 33 to 24 14 dist 29
+30 34 34
+28 33 33
+28 34 32
+30 35 33
+pos = (34, 33)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 32 33 to 24 14 dist 27
+28 32 34
+26 31 33
+26 32 32
+28 33 33
+pos = (32, 33)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 32 33 to 24 14 dist 27
+28 32 34
+26 31 33
+26 32 32
+28 33 33
+pos = (32, 33)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 33 32 to 24 14 dist 27
+28 33 33
+26 32 32
+26 33 31
+28 34 32
+pos = (33, 32)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 29 30 to 24 14 dist 21
+22 29 31
+20 28 30
+20 29 29
+22 30 30
+pos = (29, 30)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 29 30 to 24 14 dist 21
+22 29 31
+20 28 30
+20 29 29
+22 30 30
+pos = (29, 30)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 30 29 to 24 14 dist 21
+22 30 30
+20 29 29
+20 30 28
+22 31 29
+pos = (30, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 29 29 to 24 14 dist 20
+21 29 30
+19 28 29
+21 30 29
+pos = (29, 29)  mode = 2  dir = 1
+target = (35, 34)  assigned = 0
+2
+move from 29 29 to 24 14 dist 20
+21 29 30
+19 28 29
+21 30 29
+pos = (29, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 11 moves out of 11units
+3
+move from 39 49to same pos
+2
+move from 33 33 to 24 14 dist 28
+29 33 34
+27 32 33
+27 33 32
+29 34 33
+pos = (33, 33)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 34 32 to 24 14 dist 28
+29 34 33
+27 33 32
+27 34 31
+pos = (34, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 32 32 to 24 14 dist 26
+27 32 33
+25 31 32
+25 32 31
+27 33 32
+pos = (32, 32)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 32 32 to 24 14 dist 26
+27 32 33
+25 31 32
+25 32 31
+27 33 32
+pos = (32, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 33 31 to 24 14 dist 26
+27 33 32
+25 32 31
+25 33 30
+27 34 31
+pos = (33, 31)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 29 29 to 24 14 dist 20
+21 29 30
+19 28 29
+21 30 29
+pos = (29, 29)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 29 29 to 24 14 dist 20
+21 29 30
+19 28 29
+21 30 29
+pos = (29, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 29 29 to 24 14 dist 20
+21 29 30
+19 28 29
+21 30 29
+pos = (29, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 28 29 to 24 14 dist 19
+20 28 30
+18 27 29
+20 29 29
+pos = (28, 29)  mode = 2  dir = 1
+target = (35, 34)  assigned = 0
+2
+move from 28 29 to 24 14 dist 19
+20 28 30
+18 27 29
+20 29 29
+pos = (28, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 11units
+2
+move from 33 32 to 24 14 dist 27
+28 33 33
+26 32 32
+26 33 31
+28 34 32
+pos = (33, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 33 32 to 24 14 dist 27
+28 33 33
+26 32 32
+26 33 31
+28 34 32
+pos = (33, 32)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 32 31 to 24 14 dist 25
+26 32 32
+24 31 31
+24 32 30
+26 33 31
+pos = (32, 31)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 31 32 to 24 14 dist 25
+26 31 33
+24 30 32
+24 31 31
+26 32 32
+pos = (31, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 33 30 to 24 14 dist 25
+26 33 31
+24 32 30
+pos = (33, 30)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 28 29 to 24 14 dist 19
+20 28 30
+18 27 29
+20 29 29
+pos = (28, 29)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 28 29 to 24 14 dist 19
+20 28 30
+18 27 29
+20 29 29
+pos = (28, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 28 29 to 24 14 dist 19
+20 28 30
+18 27 29
+20 29 29
+pos = (28, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 27 29 to 24 14 dist 18
+19 27 30
+17 26 29
+17 27 28
+19 28 29
+pos = (27, 29)  mode = 2  dir = 1
+target = (35, 34)  assigned = 0
+2
+move from 27 29 to 24 14 dist 18
+19 27 30
+17 26 29
+17 27 28
+19 28 29
+pos = (27, 29)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+2
+move from 32 32 to 24 14 dist 26
+27 32 33
+25 31 32
+25 32 31
+27 33 32
+pos = (32, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 33 31 to 24 14 dist 26
+27 33 32
+25 32 31
+25 33 30
+27 34 31
+pos = (33, 31)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 31 31 to 24 14 dist 24
+25 31 32
+23 30 31
+23 31 30
+25 32 31
+pos = (31, 31)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 30 32 to 24 14 dist 24
+25 30 33
+23 29 32
+23 30 31
+25 31 32
+pos = (30, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 32 30 to 24 14 dist 24
+25 32 31
+23 31 30
+23 32 29
+25 33 30
+pos = (32, 30)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 27 29 to 24 14 dist 18
+19 27 30
+17 26 29
+17 27 28
+19 28 29
+pos = (27, 29)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 27 29 to 24 14 dist 18
+19 27 30
+17 26 29
+17 27 28
+19 28 29
+pos = (27, 29)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 27 29 to 24 14 dist 18
+19 27 30
+17 26 29
+17 27 28
+19 28 29
+pos = (27, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 26 29 to 24 14 dist 17
+18 26 30
+16 25 29
+16 26 28
+18 27 29
+pos = (26, 29)  mode = 2  dir = 1
+target = (35, 34)  assigned = 0
+2
+move from 27 28 to 24 14 dist 17
+18 27 29
+16 26 28
+16 27 27
+pos = (27, 28)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+2
+move from 31 32 to 24 14 dist 25
+26 31 33
+24 30 32
+24 31 31
+26 32 32
+pos = (31, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 33 30 to 24 14 dist 25
+26 33 31
+24 32 30
+pos = (33, 30)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 31 30 to 24 14 dist 23
+24 31 31
+22 30 30
+22 31 29
+24 32 30
+pos = (31, 30)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 29 32 to 24 14 dist 23
+22 29 31
+24 30 32
+pos = (29, 32)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 32 29 to 24 14 dist 23
+24 32 30
+22 31 29
+22 32 28
+pos = (32, 29)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 27 28 to 24 14 dist 17
+18 27 29
+16 26 28
+16 27 27
+pos = (27, 28)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 27 28 to 24 14 dist 17
+18 27 29
+16 26 28
+16 27 27
+pos = (27, 28)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 26 29 to 24 14 dist 17
+18 26 30
+16 25 29
+16 26 28
+18 27 29
+pos = (26, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 25 29 to 24 14 dist 16
+17 25 30
+15 24 29
+15 25 28
+17 26 29
+pos = (25, 29)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 27 27 to 24 14 dist 16
+17 27 28
+15 26 27
+15 27 26
+17 28 27
+pos = (27, 27)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+2
+move from 30 32 to 24 14 dist 24
+25 30 33
+23 29 32
+23 30 31
+25 31 32
+pos = (30, 32)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 32 30 to 24 14 dist 24
+25 32 31
+23 31 30
+23 32 29
+25 33 30
+pos = (32, 30)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 30 30 to 24 14 dist 22
+23 30 31
+21 29 30
+21 30 29
+23 31 30
+pos = (30, 30)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 29 31 to 24 14 dist 22
+23 29 32
+21 29 30
+23 30 31
+pos = (29, 31)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 32 28 to 24 14 dist 22
+23 32 29
+21 31 28
+21 32 27
+23 33 28
+pos = (32, 28)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 27 27 to 24 14 dist 16
+17 27 28
+15 26 27
+15 27 26
+17 28 27
+pos = (27, 27)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 27 27 to 24 14 dist 16
+17 27 28
+15 26 27
+15 27 26
+17 28 27
+pos = (27, 27)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 25 29 to 24 14 dist 16
+17 25 30
+15 24 29
+15 25 28
+17 26 29
+pos = (25, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 25 28 to 24 14 dist 15
+16 25 29
+14 24 28
+14 25 27
+16 26 28
+pos = (25, 28)  mode = 2  dir = 1
+target = (35, 34)  assigned = 0
+2
+move from 27 26 to 24 14 dist 15
+16 27 27
+14 26 26
+14 27 25
+pos = (27, 26)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+2
+move from 29 32 to 24 14 dist 23
+22 29 31
+24 30 32
+pos = (29, 32)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 31 30 to 24 14 dist 23
+24 31 31
+22 30 30
+22 31 29
+24 32 30
+pos = (31, 30)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 29 30 to 24 14 dist 21
+22 29 31
+20 28 30
+20 29 29
+22 30 30
+pos = (29, 30)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 29 30 to 24 14 dist 21
+22 29 31
+20 28 30
+20 29 29
+22 30 30
+pos = (29, 30)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 32 27 to 24 14 dist 21
+22 32 28
+20 31 27
+20 32 26
+22 33 27
+pos = (32, 27)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 26 27 to 24 14 dist 15
+16 26 28
+14 25 27
+14 26 26
+16 27 27
+pos = (26, 27)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 26 27 to 24 14 dist 15
+16 26 28
+14 25 27
+14 26 26
+16 27 27
+pos = (26, 27)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 29 to 24 14 dist 15
+16 24 30
+16 23 29
+14 24 28
+16 25 29
+pos = (24, 29)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 28 to 24 14 dist 14
+15 24 29
+15 23 28
+13 24 27
+15 25 28
+pos = (24, 28)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 27 25 to 24 14 dist 14
+15 27 26
+13 26 25
+13 27 24
+pos = (27, 25)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+2
+move from 29 31 to 24 14 dist 22
+23 29 32
+21 29 30
+23 30 31
+pos = (29, 31)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 31 29 to 24 14 dist 22
+23 31 30
+21 30 29
+21 31 28
+23 32 29
+pos = (31, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 29 29 to 24 14 dist 20
+21 29 30
+19 28 29
+21 30 29
+pos = (29, 29)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 28 30 to 24 14 dist 20
+19 27 30
+19 28 29
+21 29 30
+pos = (28, 30)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 32 26 to 24 14 dist 20
+21 32 27
+19 31 26
+19 32 25
+21 33 26
+pos = (32, 26)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 26 26 to 24 14 dist 14
+15 26 27
+13 25 26
+13 26 25
+15 27 26
+pos = (26, 26)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 26 26 to 24 14 dist 14
+15 26 27
+13 25 26
+13 26 25
+15 27 26
+pos = (26, 26)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 28 to 24 14 dist 14
+15 24 29
+15 23 28
+13 24 27
+15 25 28
+pos = (24, 28)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 27 to 24 14 dist 13
+14 24 28
+14 23 27
+12 24 26
+14 25 27
+pos = (24, 27)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 27 24 to 24 14 dist 13
+14 27 25
+12 26 24
+12 27 23
+pos = (27, 24)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+2
+move from 29 30 to 24 14 dist 21
+22 29 31
+20 28 30
+20 29 29
+22 30 30
+pos = (29, 30)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 30 29 to 24 14 dist 21
+22 30 30
+20 29 29
+20 30 28
+22 31 29
+pos = (30, 29)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 28 29 to 24 14 dist 19
+20 28 30
+18 27 29
+20 29 29
+pos = (28, 29)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 28 29 to 24 14 dist 19
+20 28 30
+18 27 29
+20 29 29
+pos = (28, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 31 26 to 24 14 dist 19
+20 31 27
+18 30 26
+18 31 25
+20 32 26
+pos = (31, 26)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 25 26 to 24 14 dist 13
+14 25 27
+12 24 26
+12 25 25
+14 26 26
+pos = (25, 26)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 26 25 to 24 14 dist 13
+14 26 26
+12 25 25
+12 26 24
+14 27 25
+pos = (26, 25)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 27 to 24 14 dist 13
+14 24 28
+14 23 27
+12 24 26
+14 25 27
+pos = (24, 27)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 26 to 24 14 dist 12
+13 24 27
+13 23 26
+11 24 25
+13 25 26
+pos = (24, 26)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 26 24 to 24 14 dist 12
+13 26 25
+11 25 24
+11 26 23
+13 27 24
+pos = (26, 24)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+2
+move from 29 29 to 24 14 dist 20
+21 29 30
+19 28 29
+21 30 29
+pos = (29, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 30 28 to 24 14 dist 20
+21 30 29
+19 30 27
+21 31 28
+pos = (30, 28)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 27 29 to 24 14 dist 18
+19 27 30
+17 26 29
+17 27 28
+19 28 29
+pos = (27, 29)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 27 29 to 24 14 dist 18
+19 27 30
+17 26 29
+17 27 28
+19 28 29
+pos = (27, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 31 25 to 24 14 dist 18
+19 31 26
+17 30 25
+17 31 24
+19 32 25
+pos = (31, 25)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 25 25 to 24 14 dist 12
+13 25 26
+11 24 25
+11 25 24
+13 26 25
+pos = (25, 25)  mode = 2  dir = 1
+target = (37, 33)  assigned = 0
+2
+move from 26 24 to 24 14 dist 12
+13 26 25
+11 25 24
+11 26 23
+13 27 24
+pos = (26, 24)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 24 26 to 24 14 dist 12
+13 24 27
+13 23 26
+11 24 25
+13 25 26
+pos = (24, 26)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 25 to 24 14 dist 11
+12 24 26
+12 23 25
+10 24 24
+12 25 25
+pos = (24, 25)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 26 23 to 24 14 dist 11
+12 26 24
+10 25 23
+10 26 22
+12 27 23
+pos = (26, 23)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+2
+move from 28 29 to 24 14 dist 19
+20 28 30
+18 27 29
+20 29 29
+pos = (28, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 30 27 to 24 14 dist 19
+20 30 28
+18 30 26
+20 31 27
+pos = (30, 27)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 27 28 to 24 14 dist 17
+18 27 29
+16 26 28
+16 27 27
+pos = (27, 28)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 26 29 to 24 14 dist 17
+18 26 30
+16 25 29
+16 26 28
+18 27 29
+pos = (26, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 31 24 to 24 14 dist 17
+18 31 25
+16 30 24
+16 31 23
+18 32 24
+pos = (31, 24)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 25 to 24 14 dist 11
+12 24 26
+12 23 25
+10 24 24
+12 25 25
+pos = (24, 25)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 25 24 to 24 14 dist 11
+12 25 25
+10 24 24
+10 25 23
+12 26 24
+pos = (25, 24)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 25 to 24 14 dist 11
+12 24 26
+12 23 25
+10 24 24
+12 25 25
+pos = (24, 25)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 24 to 24 14 dist 10
+11 24 25
+11 23 24
+9 24 23
+11 25 24
+pos = (24, 24)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 26 22 to 24 14 dist 10
+11 26 23
+9 25 22
+9 26 21
+11 27 22
+pos = (26, 22)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+2
+move from 27 29 to 24 14 dist 18
+19 27 30
+17 26 29
+17 27 28
+19 28 29
+pos = (27, 29)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 30 26 to 24 14 dist 18
+19 30 27
+17 30 25
+19 31 26
+pos = (30, 26)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 27 27 to 24 14 dist 16
+17 27 28
+15 26 27
+15 27 26
+17 28 27
+pos = (27, 27)  mode = 2  dir = 1
+target = (40, 36)  assigned = 0
+2
+move from 25 29 to 24 14 dist 16
+17 25 30
+15 24 29
+15 25 28
+17 26 29
+pos = (25, 29)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 31 23 to 24 14 dist 16
+17 31 24
+15 30 23
+15 31 22
+17 32 23
+pos = (31, 23)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 24 24 to 24 14 dist 10
+11 24 25
+11 23 24
+9 24 23
+11 25 24
+pos = (24, 24)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 25 23 to 24 14 dist 10
+11 25 24
+9 24 23
+9 25 22
+11 26 23
+pos = (25, 23)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 24 to 24 14 dist 10
+11 24 25
+11 23 24
+9 24 23
+11 25 24
+pos = (24, 24)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 23 to 24 14 dist 9
+10 24 24
+10 23 23
+8 24 22
+10 25 23
+pos = (24, 23)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 26 21 to 24 14 dist 9
+10 26 22
+8 25 21
+8 26 20
+10 27 21
+pos = (26, 21)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+2
+move from 27 28 to 24 14 dist 17
+18 27 29
+16 26 28
+16 27 27
+pos = (27, 28)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 30 25 to 24 14 dist 17
+18 30 26
+16 30 24
+18 31 25
+pos = (30, 25)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 26 27 to 24 14 dist 15
+16 26 28
+14 25 27
+14 26 26
+16 27 27
+pos = (26, 27)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 24 29 to 24 14 dist 15
+16 24 30
+16 23 29
+14 24 28
+16 25 29
+pos = (24, 29)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 30 23 to 24 14 dist 15
+16 30 24
+14 29 23
+14 30 22
+16 31 23
+pos = (30, 23)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 24 23 to 24 14 dist 9
+10 24 24
+10 23 23
+8 24 22
+10 25 23
+pos = (24, 23)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 25 22 to 24 14 dist 9
+10 25 23
+8 24 22
+8 25 21
+10 26 22
+pos = (25, 22)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 24 23 to 24 14 dist 9
+10 24 24
+10 23 23
+8 24 22
+10 25 23
+pos = (24, 23)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 22 to 24 14 dist 8
+9 24 23
+9 23 22
+7 24 21
+9 25 22
+pos = (24, 22)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 25 21 to 24 14 dist 8
+9 25 22
+7 24 21
+7 25 20
+9 26 21
+pos = (25, 21)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+2
+move from 27 27 to 24 14 dist 16
+17 27 28
+15 26 27
+15 27 26
+17 28 27
+pos = (27, 27)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 30 24 to 24 14 dist 16
+17 30 25
+15 30 23
+17 31 24
+pos = (30, 24)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 26 26 to 24 14 dist 14
+15 26 27
+13 25 26
+13 26 25
+15 27 26
+pos = (26, 26)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 24 28 to 24 14 dist 14
+15 24 29
+15 23 28
+13 24 27
+15 25 28
+pos = (24, 28)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 29 23 to 24 14 dist 14
+13 28 23
+13 29 22
+15 30 23
+pos = (29, 23)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 22 to 24 14 dist 8
+9 24 23
+9 23 22
+7 24 21
+9 25 22
+pos = (24, 22)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 24 22 to 24 14 dist 8
+9 24 23
+9 23 22
+7 24 21
+9 25 22
+pos = (24, 22)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 22 to 24 14 dist 8
+9 24 23
+9 23 22
+7 24 21
+9 25 22
+pos = (24, 22)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 21 to 24 14 dist 7
+8 24 22
+8 23 21
+6 24 20
+8 25 21
+pos = (24, 21)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 24 21 to 24 14 dist 7
+8 24 22
+8 23 21
+6 24 20
+8 25 21
+pos = (24, 21)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+3
+move from 26 27 to 39 49 dist 35
+34 26 28
+36 25 27
+36 26 26
+34 27 27
+pos = (26, 27)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+2
+move from 30 23 to 24 14 dist 15
+16 30 24
+14 29 23
+14 30 22
+16 31 23
+pos = (30, 23)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 26 25 to 24 14 dist 13
+14 26 26
+12 25 25
+12 26 24
+14 27 25
+pos = (26, 25)  mode = 2  dir = 2
+target = (40, 36)  assigned = 0
+2
+move from 24 27 to 24 14 dist 13
+14 24 28
+14 23 27
+12 24 26
+14 25 27
+pos = (24, 27)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 29 22 to 24 14 dist 13
+14 29 23
+12 28 22
+12 29 21
+14 30 22
+pos = (29, 22)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 21 to 24 14 dist 7
+8 24 22
+8 23 21
+6 24 20
+8 25 21
+pos = (24, 21)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 24 21 to 24 14 dist 7
+8 24 22
+8 23 21
+6 24 20
+8 25 21
+pos = (24, 21)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 21 to 24 14 dist 7
+8 24 22
+8 23 21
+6 24 20
+8 25 21
+pos = (24, 21)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 20 to 24 14 dist 6
+7 24 21
+7 23 20
+5 24 19
+7 25 20
+pos = (24, 20)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 24 20 to 24 14 dist 6
+7 24 21
+7 23 20
+5 24 19
+7 25 20
+pos = (24, 20)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+3
+move from 27 27 to 39 49 dist 34
+33 27 28
+35 26 27
+35 27 26
+35 28 27
+pos = (27, 27)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+2
+move from 30 22 to 24 14 dist 14
+15 30 23
+13 29 22
+13 30 21
+15 31 22
+pos = (30, 22)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+3
+move from 26 24 to 39 49 dist 38
+37 26 25
+39 25 24
+39 26 23
+37 27 24
+pos = (26, 24)  mode = 3  dir = 3
+target = (40, 36)  assigned = 0
+3
+move from 24 26 to 39 49 dist 38
+37 24 27
+39 23 26
+39 24 25
+37 25 26
+pos = (24, 26)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+2
+move from 29 21 to 24 14 dist 12
+13 29 22
+11 28 21
+11 29 20
+13 30 21
+pos = (29, 21)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 24 20 to 24 14 dist 6
+7 24 21
+7 23 20
+5 24 19
+7 25 20
+pos = (24, 20)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 24 20 to 24 14 dist 6
+7 24 21
+7 23 20
+5 24 19
+7 25 20
+pos = (24, 20)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 20 to 24 14 dist 6
+7 24 21
+7 23 20
+5 24 19
+7 25 20
+pos = (24, 20)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 19 to 24 14 dist 5
+6 24 20
+6 23 19
+4 24 18
+6 25 19
+pos = (24, 19)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 24 19 to 24 14 dist 5
+6 24 20
+6 23 19
+4 24 18
+6 25 19
+pos = (24, 19)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+3
+move from 27 28 to 39 49 dist 33
+32 27 29
+34 26 28
+34 27 27
+pos = (27, 28)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+3
+move from 29 22 to 39 49 dist 37
+36 29 23
+38 28 22
+38 29 21
+36 30 22
+pos = (29, 22)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+3
+move from 27 24 to 39 49 dist 37
+36 27 25
+38 26 24
+38 27 23
+pos = (27, 24)  mode = 3  dir = 0
+target = (40, 36)  assigned = 0
+3
+move from 25 26 to 39 49 dist 37
+36 25 27
+38 24 26
+38 25 25
+36 26 26
+pos = (25, 26)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+2
+move from 28 21 to 24 14 dist 11
+12 28 22
+10 27 21
+10 28 20
+12 29 21
+pos = (28, 21)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 24 19 to 24 14 dist 5
+6 24 20
+6 23 19
+4 24 18
+6 25 19
+pos = (24, 19)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 24 19 to 24 14 dist 5
+6 24 20
+6 23 19
+4 24 18
+6 25 19
+pos = (24, 19)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 19 to 24 14 dist 5
+6 24 20
+6 23 19
+4 24 18
+6 25 19
+pos = (24, 19)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 18 to 24 14 dist 4
+5 24 19
+5 23 18
+3 24 17
+pos = (24, 18)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 24 18 to 24 14 dist 4
+5 24 19
+5 23 18
+3 24 17
+pos = (24, 18)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+3
+move from 27 29 to 39 49 dist 32
+31 27 30
+33 26 29
+33 27 28
+31 28 29
+pos = (27, 29)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+3
+move from 29 23 to 39 49 dist 36
+37 28 23
+37 29 22
+35 30 23
+pos = (29, 23)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+3
+move from 27 25 to 39 49 dist 36
+35 27 26
+37 26 25
+37 27 24
+pos = (27, 25)  mode = 3  dir = 0
+target = (40, 36)  assigned = 0
+3
+move from 26 26 to 39 49 dist 36
+35 26 27
+37 25 26
+37 26 25
+35 27 26
+pos = (26, 26)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+2
+move from 27 21 to 24 14 dist 10
+11 27 22
+9 26 21
+9 27 20
+11 28 21
+pos = (27, 21)  mode = 2  dir = 1
+target = ( 0,  0)  assigned = 0
+2
+move from 24 18 to 24 14 dist 4
+5 24 19
+5 23 18
+3 24 17
+pos = (24, 18)  mode = 2  dir = 2
+target = (37, 33)  assigned = 0
+2
+move from 24 18 to 24 14 dist 4
+5 24 19
+5 23 18
+3 24 17
+pos = (24, 18)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 18 to 24 14 dist 4
+5 24 19
+5 23 18
+3 24 17
+pos = (24, 18)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 17 to 24 14 dist 3
+4 24 18
+4 23 17
+2 24 16
+4 25 17
+pos = (24, 17)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 24 17 to 24 14 dist 3
+4 24 18
+4 23 17
+2 24 16
+4 25 17
+pos = (24, 17)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+3
+move from 28 29 to 39 49 dist 31
+30 28 30
+32 27 29
+30 29 29
+pos = (28, 29)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+3
+move from 30 23 to 39 49 dist 35
+34 30 24
+36 29 23
+36 30 22
+34 31 23
+pos = (30, 23)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+3
+move from 27 26 to 39 49 dist 35
+34 27 27
+36 26 26
+36 27 25
+pos = (27, 26)  mode = 3  dir = 0
+target = (40, 36)  assigned = 0
+3
+move from 27 26 to 39 49 dist 35
+34 27 27
+36 26 26
+36 27 25
+pos = (27, 26)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+3
+move from 26 21 to 39 49 dist 41
+40 26 22
+42 25 21
+42 26 20
+40 27 21
+pos = (26, 21)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+3
+move from 24 17 to 39 49 dist 47
+46 24 18
+48 23 17
+48 24 16
+46 25 17
+pos = (24, 17)  mode = 3  dir = 0
+target = (37, 33)  assigned = 0
+3
+move from 24 17 to 39 49 dist 47
+46 24 18
+48 23 17
+48 24 16
+46 25 17
+pos = (24, 17)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+2
+move from 24 17 to 24 14 dist 3
+4 24 18
+4 23 17
+2 24 16
+4 25 17
+pos = (24, 17)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+2
+move from 24 16 to 24 14 dist 2
+3 24 17
+3 23 16
+1 24 15
+3 25 16
+pos = (24, 16)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 24 16 to 24 14 dist 2
+3 24 17
+3 23 16
+1 24 15
+3 25 16
+pos = (24, 16)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+3
+move from 29 29 to 39 49 dist 30
+29 29 30
+31 28 29
+29 30 29
+pos = (29, 29)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+3
+move from 30 24 to 39 49 dist 34
+33 30 25
+35 30 23
+33 31 24
+pos = (30, 24)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+3
+move from 27 27 to 39 49 dist 34
+33 27 28
+35 26 27
+35 27 26
+35 28 27
+pos = (27, 27)  mode = 3  dir = 0
+target = (40, 36)  assigned = 0
+3
+move from 27 27 to 39 49 dist 34
+33 27 28
+35 26 27
+35 27 26
+35 28 27
+pos = (27, 27)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+3
+move from 27 21 to 39 49 dist 40
+39 27 22
+41 26 21
+41 27 20
+39 28 21
+pos = (27, 21)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+3
+move from 24 18 to 39 49 dist 46
+45 24 19
+47 23 18
+47 24 17
+pos = (24, 18)  mode = 3  dir = 0
+target = (37, 33)  assigned = 0
+3
+move from 24 18 to 39 49 dist 46
+45 24 19
+47 23 18
+47 24 17
+pos = (24, 18)  mode = 3  dir = 0
+target = ( 0,  0)  assigned = 0
+3
+move from 24 16 to 39 49 dist 48
+47 24 17
+49 23 16
+49 24 15
+47 25 16
+pos = (24, 16)  mode = 3  dir = 3
+target = ( 0,  0)  assigned = 0
+2
+move from 24 15 to 24 14 dist 1
+2 24 16
+2 23 15
+0 24 14
+2 25 15
+pos = (24, 15)  mode = 2  dir = 2
+target = (35, 34)  assigned = 0
+2
+move from 24 15 to 24 14 dist 1
+2 24 16
+2 23 15
+0 24 14
+2 25 15
+pos = (24, 15)  mode = 2  dir = 2
+target = ( 0,  0)  assigned = 0
+sending 10 moves out of 10units
+ERROR: 'TCP read error'
