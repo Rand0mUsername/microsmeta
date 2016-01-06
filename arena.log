@@ -1,398 +1,398 @@
 ==== Move 0 ====
 Sending board to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.3873s]
+[0.7352s]
 ----
 Sending board to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0332s]
+[0.0385s]
 ----
 ==== Move 1 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0019s]
+[0.0018s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0106s]
+[0.0034s]
 ----
 ==== Move 2 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0139s]
+[0.0012s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0562s]
+[0.0031s]
 ----
 ==== Move 3 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0101s]
+[0.0013s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0730s]
+[0.0043s]
 ----
 ==== Move 4 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0315s]
+[0.0009s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0573s]
+[0.0149s]
 ----
 ==== Move 5 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0275s]
+[0.0136s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0589s]
+[0.0099s]
 ----
 ==== Move 6 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0302s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0494s]
-----
-==== Move 7 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0319s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0553s]
-----
-==== Move 8 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0390s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0545s]
-----
-==== Move 9 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0285s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0528s]
-----
-==== Move 10 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0382s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0196s]
-----
-==== Move 11 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0090s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0113s]
-----
-==== Move 12 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0082s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0157s]
-----
-==== Move 13 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0100s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0153s]
-----
-==== Move 14 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0065s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0156s]
-----
-==== Move 15 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0080s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0118s]
-----
-==== Move 16 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0072s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0273s]
-----
-==== Move 17 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0102s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0100s]
-----
-==== Move 18 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0117s]
+[0.0095s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
 [0.0119s]
 ----
-==== Move 19 ====
+==== Move 7 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0058s]
+[0.0222s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0112s]
+[0.0131s]
 ----
-==== Move 20 ====
+==== Move 8 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0050s]
+[0.0035s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0183s]
+[0.0134s]
 ----
-==== Move 21 ====
+==== Move 9 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0082s]
+[0.0040s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0107s]
+[0.0196s]
 ----
-==== Move 22 ====
+==== Move 10 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0063s]
+[0.0033s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0150s]
+[0.0142s]
 ----
-==== Move 23 ====
+==== Move 11 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0058s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0124s]
-----
-==== Move 24 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0072s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0306s]
-----
-==== Move 25 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0076s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0133s]
-----
-==== Move 26 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0101s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0090s]
-----
-==== Move 27 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0067s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0110s]
-----
-==== Move 28 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0070s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0155s]
-----
-==== Move 29 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0074s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0102s]
-----
-==== Move 30 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0084s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0157s]
-----
-==== Move 31 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0048s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0120s]
-----
-==== Move 32 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0140s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0153s]
-----
-==== Move 33 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0056s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0116s]
-----
-==== Move 34 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0128s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0154s]
-----
-==== Move 35 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0059s]
+[0.0064s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
 [0.0106s]
 ----
-==== Move 36 ====
+==== Move 12 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0088s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0286s]
+----
+==== Move 13 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
 [0.0206s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0130s]
+[0.0171s]
 ----
-==== Move 37 ====
+==== Move 14 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0104s]
+[0.0062s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0092s]
+[0.0285s]
 ----
-==== Move 38 ====
+==== Move 15 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0198s]
+[0.0059s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0112s]
+[0.0359s]
 ----
-==== Move 39 ====
+==== Move 16 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0071s]
+[0.0077s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0094s]
+[0.0308s]
 ----
-==== Move 40 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0075s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0194s]
-----
-==== Move 41 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0087s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0088s]
-----
-==== Move 42 ====
-Sending opponent's move to player 0 (microSmeta~).
-Asking player 0 (microSmeta~) to make a move.
-[0.0106s]
-----
-Sending opponent's move to player 1 (zDule).
-Asking player 1 (zDule) to make a move.
-[0.0162s]
-----
-==== Move 43 ====
+==== Move 17 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
 [0.0054s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0105s]
+[0.0488s]
+----
+==== Move 18 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0099s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0434s]
+----
+==== Move 19 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0095s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0616s]
+----
+==== Move 20 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0130s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0474s]
+----
+==== Move 21 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0159s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0587s]
+----
+==== Move 22 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0150s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0326s]
+----
+==== Move 23 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0045s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0161s]
+----
+==== Move 24 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0092s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0119s]
+----
+==== Move 25 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0070s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0175s]
+----
+==== Move 26 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0104s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0133s]
+----
+==== Move 27 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0097s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0115s]
+----
+==== Move 28 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0098s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0132s]
+----
+==== Move 29 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0173s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0148s]
+----
+==== Move 30 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0062s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0141s]
+----
+==== Move 31 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0079s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0153s]
+----
+==== Move 32 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0043s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0104s]
+----
+==== Move 33 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0040s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0172s]
+----
+==== Move 34 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0048s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0108s]
+----
+==== Move 35 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0032s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0216s]
+----
+==== Move 36 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0064s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0154s]
+----
+==== Move 37 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0083s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0130s]
+----
+==== Move 38 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0061s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0111s]
+----
+==== Move 39 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0037s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0273s]
+----
+==== Move 40 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0037s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0146s]
+----
+==== Move 41 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0093s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0161s]
+----
+==== Move 42 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0038s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0151s]
+----
+==== Move 43 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0063s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0163s]
 ----
 ==== Move 44 ====
 Sending opponent's move to player 0 (microSmeta~).
@@ -401,231 +401,843 @@ Asking player 0 (microSmeta~) to make a move.
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0201s]
+[0.0138s]
 ----
 ==== Move 45 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0067s]
+[0.0031s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0118s]
+[0.0160s]
 ----
 ==== Move 46 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0162s]
+[0.0033s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0140s]
+[0.0109s]
 ----
 ==== Move 47 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0055s]
+[0.0061s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0126s]
+[0.0153s]
 ----
 ==== Move 48 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0097s]
+[0.0034s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0128s]
+[0.0143s]
 ----
 ==== Move 49 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0069s]
+[0.0009s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0162s]
+[0.0138s]
 ----
 ==== Move 50 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0146s]
+[0.0029s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0123s]
+[0.0177s]
 ----
 ==== Move 51 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0071s]
+[0.0012s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0128s]
+[0.0160s]
 ----
 ==== Move 52 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0056s]
+[0.0013s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0250s]
+[0.0144s]
 ----
 ==== Move 53 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0052s]
+[0.0010s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0117s]
+[0.0168s]
 ----
 ==== Move 54 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0116s]
+[0.0015s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0120s]
+[0.0136s]
 ----
 ==== Move 55 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0050s]
+[0.0012s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0098s]
+[0.0186s]
 ----
 ==== Move 56 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0108s]
+[0.0031s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0216s]
+[0.0125s]
 ----
 ==== Move 57 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0055s]
+[0.0119s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0102s]
+[0.0104s]
 ----
 ==== Move 58 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0066s]
+[0.0015s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0149s]
+[0.0089s]
 ----
 ==== Move 59 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0085s]
+[0.0044s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0081s]
+[0.0147s]
 ----
 ==== Move 60 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0076s]
+[0.0012s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0165s]
+[0.0111s]
 ----
 ==== Move 61 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0058s]
+[0.0012s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0159s]
+[0.0142s]
 ----
 ==== Move 62 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0013s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0113s]
+----
+==== Move 63 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0010s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0203s]
+----
+==== Move 64 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0028s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0136s]
+----
+==== Move 65 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0011s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0182s]
+----
+==== Move 66 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0021s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0154s]
+----
+==== Move 67 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0011s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0161s]
+----
+==== Move 68 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0044s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0176s]
+----
+==== Move 69 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0012s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0187s]
+----
+==== Move 70 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0009s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0132s]
+----
+==== Move 71 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
 [0.0059s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
+[0.0175s]
+----
+==== Move 72 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0011s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0133s]
+----
+==== Move 73 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0021s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0149s]
+----
+==== Move 74 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0049s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0192s]
+----
+==== Move 75 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0025s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0204s]
+----
+==== Move 76 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0025s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0202s]
+----
+==== Move 77 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0022s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0186s]
+----
+==== Move 78 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0023s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0174s]
+----
+==== Move 79 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0037s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0156s]
+----
+==== Move 80 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0043s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0184s]
+----
+==== Move 81 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0056s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0180s]
+----
+==== Move 82 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0074s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
 [0.0138s]
 ----
-==== Move 63 ====
+==== Move 83 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0049s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0146s]
+----
+==== Move 84 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
 [0.0071s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0143s]
+[0.0177s]
 ----
-==== Move 64 ====
+==== Move 85 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0053s]
+[0.0055s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0259s]
+[0.0116s]
 ----
-==== Move 65 ====
+==== Move 86 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
 [0.0049s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0167s]
+[0.0158s]
 ----
-==== Move 66 ====
+==== Move 87 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0104s]
+[0.0089s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0089s]
+----
+==== Move 88 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0105s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0156s]
+----
+==== Move 89 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0066s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
 [0.0153s]
 ----
-==== Move 67 ====
+==== Move 90 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
-[0.0049s]
+[0.0077s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0207s]
+[0.0142s]
 ----
-==== Move 68 ====
+==== Move 91 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0051s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0178s]
+----
+==== Move 92 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0099s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0137s]
+----
+==== Move 93 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
 [0.0068s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
-[0.0198s]
+[0.0149s]
 ----
-==== Move 69 ====
+==== Move 94 ====
 Sending opponent's move to player 0 (microSmeta~).
 Asking player 0 (microSmeta~) to make a move.
+[0.0070s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0089s]
+----
+==== Move 95 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0064s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0136s]
+----
+==== Move 96 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0036s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0119s]
+----
+==== Move 97 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0043s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0160s]
+----
+==== Move 98 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0069s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0086s]
+----
+==== Move 99 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0100s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0122s]
+----
+==== Move 100 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0054s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0102s]
+----
+==== Move 101 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0099s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0080s]
+----
+==== Move 102 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0040s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0061s]
+----
+==== Move 103 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0053s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0129s]
+----
+==== Move 104 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0054s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0077s]
+----
+==== Move 105 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0144s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0082s]
+----
+==== Move 106 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0048s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
 [0.0118s]
+----
+==== Move 107 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0122s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0111s]
+----
+==== Move 108 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0041s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0088s]
+----
+==== Move 109 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0060s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0148s]
+----
+==== Move 110 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0087s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0104s]
+----
+==== Move 111 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0168s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0102s]
+----
+==== Move 112 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0070s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0101s]
+----
+==== Move 113 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0065s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0144s]
+----
+==== Move 114 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0040s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0085s]
+----
+==== Move 115 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0068s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0242s]
+----
+==== Move 116 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0061s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0067s]
+----
+==== Move 117 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0062s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0155s]
+----
+==== Move 118 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0065s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0128s]
+----
+==== Move 119 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0067s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0112s]
+----
+==== Move 120 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0048s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0082s]
+----
+==== Move 121 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0052s]
 ----
 Sending opponent's move to player 1 (zDule).
 Asking player 1 (zDule) to make a move.
 [0.0140s]
+----
+==== Move 122 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0042s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0114s]
+----
+==== Move 123 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0067s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0177s]
+----
+==== Move 124 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0048s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0105s]
+----
+==== Move 125 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0068s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0132s]
+----
+==== Move 126 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0052s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0155s]
+----
+==== Move 127 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0055s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0152s]
+----
+==== Move 128 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0065s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0104s]
+----
+==== Move 129 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0073s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0221s]
+----
+==== Move 130 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0083s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0113s]
+----
+==== Move 131 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0061s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0137s]
+----
+==== Move 132 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0068s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0144s]
+----
+==== Move 133 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0076s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0112s]
+----
+==== Move 134 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0058s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0120s]
+----
+==== Move 135 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0150s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0084s]
+----
+==== Move 136 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0070s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0079s]
+----
+==== Move 137 ====
+Sending opponent's move to player 0 (microSmeta~).
+Asking player 0 (microSmeta~) to make a move.
+[0.0068s]
+----
+Sending opponent's move to player 1 (zDule).
+Asking player 1 (zDule) to make a move.
+[0.0136s]
 ----
 Game over. Result: Player 0 (microSmeta~) wins (conquered the opponent's base).
